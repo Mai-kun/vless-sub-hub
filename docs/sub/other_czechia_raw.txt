@@ -1,2 +1,2 @@
-vless://971dc1d5-4243-4238-8d23-091a6a06d25a@153.76.185.81:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%5BCZ%5D%20%7C%20CZE%20%7C%20244ms%20%7C%20grpc
-vless://4220f4b9-f20e-4566-b461-6becf700ef56@153.76.185.183:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%5BCZ%5D%20%7C%20CZE%20%7C%20275ms%20%7C%20grpc
+vless://5ebdc9ee-8b41-4487-93af-231cb0b47d60@153.76.185.189:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%5BCZ%5D%20%7C%20CZE%20%7C%20162ms%20%7C%20grpc
+vless://4220f4b9-f20e-4566-b461-6becf700ef56@153.76.185.183:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%5BCZ%5D%20%7C%20CZE%20%7C%20164ms%20%7C%20grpc
