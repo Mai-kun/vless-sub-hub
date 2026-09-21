@@ -15,6 +15,8 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    env:
+      XRAY_BIN: ${{ github.workspace }}/.xray/xray
     steps:
       - uses: actions/checkout@v4
         with:
@@ -23,6 +25,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Download Xray
+        run: |
+          mkdir -p .xray
+          curl -fsSL "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-64.zip" -o .xray/xray.zip
+          unzip -q .xray/xray.zip -d .xray
+          chmod +x .xray/xray
 
       - name: Install dependencies
         run: pip install requests
@@ -40,7 +49,7 @@ jobs:
             echo "Нет изменений для коммита"
             exit 0
           fi
-          
+
           git commit -m "chore: update keys and subscriptions [skip ci]"
           git pull --rebase
           git push

@@ -3,9 +3,15 @@
 Общие утилиты для работы с VLESS-ключами: парсинг, проверка, кэширование DNS.
 """
 
+import json
+import os
 import re
+import shutil
 import socket
 import ssl
+import subprocess
+import tempfile
+import threading
 import time
 import hashlib
 import logging
@@ -252,6 +258,275 @@ def deduplicate_keys(keys: List[str]) -> List[str]:
             result.append(key)
     logging.info(f"Дедупликация: {len(keys)} -> {len(result)} уникальных ключей")
     return result
+
+
+PROBE_URL = "http://cp.cloudflare.com/generate_204"
+XRAY_START_TIMEOUT = 3.0
+_port_lock = threading.Lock()
+_next_local_port = 20000
+
+
+def find_xray_bin() -> Optional[str]:
+    """Ищет бинарник Xray: XRAY_BIN, PATH, либо ./xray(.exe)."""
+    env_bin = os.environ.get("XRAY_BIN")
+    if env_bin and os.path.isfile(env_bin) and os.access(env_bin, os.X_OK):
+        return env_bin
+    for name in ("xray", "xray.exe"):
+        found = shutil.which(name)
+        if found:
+            return found
+        local = os.path.abspath(name)
+        if os.path.isfile(local) and os.access(local, os.X_OK):
+            return local
+    return None
+
+
+def _allocate_local_port() -> int:
+    global _next_local_port
+    with _port_lock:
+        port = _next_local_port
+        _next_local_port += 1
+        return port
+
+
+def _truthy(value: Optional[str]) -> bool:
+    return str(value or "").lower() in ("1", "true", "yes")
+
+
+def build_xray_config(parsed: Dict[str, Any], local_port: int) -> Dict[str, Any]:
+    """Собирает клиентский JSON-конфиг Xray для одного VLESS-ключа."""
+    params = parsed["params"]
+    network = (params.get("type") or "tcp").lower()
+    if network == "h2":
+        network = "http"
+    elif network == "splithttp":
+        network = "xhttp"
+
+    security = (params.get("security") or "none").lower()
+    if security not in ("tls", "reality"):
+        security = "none"
+
+    sni = params.get("sni") or params.get("host") or parsed["host"]
+    fingerprint = params.get("fp") or "chrome"
+    path = params.get("path") or "/"
+    host_header = params.get("host") or sni
+
+    stream: Dict[str, Any] = {
+        "network": network,
+        "security": security,
+    }
+
+    if security == "reality":
+        stream["realitySettings"] = {
+            "serverName": sni,
+            "fingerprint": fingerprint,
+            "publicKey": params.get("pbk") or "",
+            "shortId": params.get("sid") or "",
+            "spiderX": params.get("spx") or "/",
+        }
+    elif security == "tls":
+        tls_settings: Dict[str, Any] = {
+            "serverName": sni,
+            "fingerprint": fingerprint,
+            "allowInsecure": _truthy(params.get("allowInsecure")),
+        }
+        alpn = params.get("alpn")
+        if alpn:
+            tls_settings["alpn"] = [part.strip() for part in alpn.split(",") if part.strip()]
+        stream["tlsSettings"] = tls_settings
+
+    if network == "ws":
+        stream["wsSettings"] = {
+            "path": path,
+            "host": host_header,
+        }
+    elif network == "grpc":
+        stream["grpcSettings"] = {
+            "serviceName": params.get("serviceName") or params.get("servicename") or "",
+            "multiMode": (params.get("mode") or "").lower() == "multi",
+        }
+    elif network == "xhttp":
+        xhttp: Dict[str, Any] = {
+            "path": path,
+            "host": host_header,
+        }
+        if params.get("mode"):
+            xhttp["mode"] = params["mode"]
+        extra_raw = params.get("extra")
+        if extra_raw:
+            try:
+                extra = json.loads(extra_raw)
+                if isinstance(extra, dict):
+                    xhttp["extra"] = extra
+            except json.JSONDecodeError:
+                pass
+        stream["xhttpSettings"] = xhttp
+    elif network == "httpupgrade":
+        stream["httpupgradeSettings"] = {
+            "path": path,
+            "host": host_header,
+        }
+    elif network == "http":
+        stream["httpSettings"] = {
+            "path": path,
+            "host": [host_header],
+        }
+    elif network == "tcp" and (params.get("headerType") or "none") == "http":
+        stream["tcpSettings"] = {
+            "header": {
+                "type": "http",
+                "request": {
+                    "path": [path] if path else ["/"],
+                    "headers": {
+                        "Host": [host_header],
+                    },
+                },
+            }
+        }
+
+    user: Dict[str, Any] = {
+        "id": parsed["uuid"],
+        "encryption": params.get("encryption") or "none",
+    }
+    flow = params.get("flow")
+    if flow and network == "tcp" and security in ("tls", "reality"):
+        user["flow"] = flow
+
+    return {
+        "log": {"loglevel": "none"},
+        "inbounds": [
+            {
+                "tag": "http-in",
+                "listen": "127.0.0.1",
+                "port": local_port,
+                "protocol": "http",
+                "settings": {"allowTransparent": False},
+            }
+        ],
+        "outbounds": [
+            {
+                "tag": "proxy",
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": parsed["host"],
+                            "port": parsed["port"],
+                            "users": [user],
+                        }
+                    ]
+                },
+                "streamSettings": stream,
+            }
+        ],
+    }
+
+
+def _wait_port(port: int, timeout: float = XRAY_START_TIMEOUT) -> bool:
+    deadline = time.time() + timeout
+    while time.time() < deadline:
+        try:
+            with socket.create_connection(("127.0.0.1", port), timeout=0.15):
+                return True
+        except OSError:
+            time.sleep(0.05)
+    return False
+
+
+def _stop_process(proc: Optional[subprocess.Popen]) -> None:
+    if proc is None:
+        return
+    try:
+        if proc.poll() is None:
+            proc.kill()
+            proc.wait(timeout=2)
+    except Exception:
+        pass
+
+
+def test_key_xray(
+    key: str,
+    timeout: float = 2.5,
+    xray_bin: Optional[str] = None,
+) -> Optional[Dict[str, Any]]:
+    """
+    Поднимает headless Xray и проверяет ключ реальным HTTP-запросом
+    на http://cp.cloudflare.com/generate_204. Успех только при HTTP 204.
+    """
+    parsed = parse_vless_key(key)
+    if not parsed:
+        return None
+
+    params = parsed["params"]
+    if (params.get("security") or "").lower() == "reality" and not params.get("pbk"):
+        return None
+
+    binary = xray_bin or find_xray_bin()
+    if not binary:
+        logging.error("Xray binary not found. Set XRAY_BIN or put xray on PATH.")
+        return None
+
+    local_port = _allocate_local_port()
+    config = build_xray_config(parsed, local_port)
+    config_path = None
+    proc = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            suffix=".json",
+            prefix="xray-probe-",
+            delete=False,
+            encoding="utf-8",
+        ) as handle:
+            json.dump(config, handle)
+            config_path = handle.name
+
+        proc = subprocess.Popen(
+            [binary, "run", "-c", config_path],
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+        if not _wait_port(local_port):
+            return None
+        if proc.poll() is not None:
+            return None
+
+        try:
+            import requests
+
+            proxy = f"http://127.0.0.1:{local_port}"
+            start = time.time()
+            resp = requests.get(
+                PROBE_URL,
+                proxies={"http": proxy, "https": proxy},
+                timeout=timeout,
+                allow_redirects=False,
+            )
+            elapsed = round((time.time() - start) * 1000, 1)
+        except requests.RequestException:
+            return None
+
+        if resp.status_code != 204:
+            return None
+
+        return {
+            "key": key,
+            "host": parsed["host"],
+            "port": parsed["port"],
+            "latency_ms": elapsed,
+            "family": socket.AF_INET,
+            "security": params.get("security", ""),
+        }
+    except Exception as exc:
+        logging.debug(f"Xray probe failed for {parsed['host']}:{parsed['port']}: {exc}")
+        return None
+    finally:
+        _stop_process(proc)
+        if config_path:
+            try:
+                os.unlink(config_path)
+            except OSError:
+                pass
 
 
 if __name__ == "__main__":
