@@ -239,16 +239,18 @@ def parse_country_from_key(key: str) -> Optional[Tuple[str, str]]:
 # Транспорты, не поддерживаемые NekoBox (sing-box): "unknown transport type: xhttp"
 UNSUPPORTED_TRANSPORTS = {"xhttp", "splithttp"}
 
-# HTTP-порты Cloudflare: VLESS поверх них без TLS — мёртвые ws-пустышки (ошибки 500/530/403/404)
-CLOUDFLARE_HTTP_PORTS = {80, 8080, 8880, 2052, 2082, 2086, 2095}
+
+BAD_DOMAINS = (
+    "09vpn.com",
+    "myfilecdn.com",
+    "serverslocal.ru",
+    "banovano.space",
+    "biznes.lol",
+)
 
 
 def validate_key(key: str) -> bool:
-    """
-    Проверяет базовую валидность VLESS-ключа.
-    Отбрасывает ключи, несовместимые с NekoBox (sing-box),
-    и неработающие Cloudflare ws-пустышки на HTTP-портах без шифрования.
-    """
+    """Проверяет, что VLESS-ключ совместим с NekoBox и не заблокирован."""
     parsed = parse_vless_key(key)
     if not parsed:
         return False
@@ -258,7 +260,11 @@ def validate_key(key: str) -> bool:
         return False
 
     security = (parsed["params"].get("security") or "none").lower()
-    if parsed["port"] in CLOUDFLARE_HTTP_PORTS and security == "none":
+    if security not in ("tls", "reality"):
+        return False
+
+    host = parsed.get("host", "").lower()
+    if any(domain in host for domain in BAD_DOMAINS):
         return False
 
     return True
