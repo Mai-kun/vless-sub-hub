@@ -1,2 +1,1 @@
-vless://91c593d7-6095-4e20-aaf2-e591b61da7f2@64.188.81.168:443?encryption=none&flow=xtls-rprx-vision&pbk=u9_Ta0DYmqruY94DwuZv4g_gnvY1xGMF1iT1SdV3cT8&security=reality&sid=d3a09fd1&sni=news.samsung.com&type=tcp&fp=chrome#%5BSE%5D%20%7C%20SWEDEN%20%7C%20158ms%20%7C%20reality
-vless://01ce1507-0197-4261-9b91-1baab455dd7f@199.232.78.159:443?&security=tls&sni=Swedenman.global.ssl.fastly.net.&type=ws&headerType=none&host=Swedenman.global.ssl.fastly.net.&path=%2F#%5BUN%5D%20%7C%20SWEDEN%20%7C%205ms%20%7C%20ws
+vless://01ce1507-0197-4261-9b91-1baab455dd7f@199.232.78.159:443?&security=tls&sni=Swedenman.global.ssl.fastly.net.&type=ws&headerType=none&host=Swedenman.global.ssl.fastly.net.&path=%2F#%5BUN%5D%20%7C%20SWEDEN%20%7C%2018ms%20%7C%20ws
