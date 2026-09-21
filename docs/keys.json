@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 18:28 UTC",
+  "updated_at": "2026-09-21 18:56 UTC",
   "baltics": {
     "best": null,
     "top10": [],
@@ -61,7 +61,7 @@
     "best": null,
     "top10": [],
     "total_working": 0,
-    "total": 1
+    "total": 2
   },
   "w_sweden": {
     "best": null,
@@ -73,7 +73,7 @@
     "best": null,
     "top10": [],
     "total_working": 0,
-    "total": 0
+    "total": 1
   },
   "w_poland": {
     "best": null,
@@ -91,6 +91,6 @@
     "best": null,
     "top10": [],
     "total_working": 0,
-    "total": 1
+    "total": 0
   }
 }
