@@ -16,21 +16,16 @@ import vless_utils
 from vless_utils import (
     validate_key,
     deduplicate_keys,
+    parse_vless_key,
 )
 from subscriptions import generate_subscriptions
 
 VLESS_SOURCES = [
-    # Огромный агрегатор (1500+ VLESS-ключей, обновляется каждые 15 мин)
-    "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt",
-
     # Репозиторий kort0881 (обновленный путь к VLESS)
     "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/output/vless.txt",
 
     # Топ-100 проверенных быстрых нод
     "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/top100.txt",
-
-    # Правильный путь в ebrasha
-    "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/vless_configs.txt",
 
     # Источники igareck (черные списки)
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt",
@@ -75,6 +70,22 @@ def fetch_keys(url):
         validated = [k for k in keys if validate_key(k)]
         if len(validated) < len(keys):
             logging.warning(f"URL {url}: отфильтровано {len(keys) - len(validated)} невалидных ключей")
+
+        # Отбрасываем иранские интранет-ноды (.ir в хосте или sni) — недоступны из РФ
+        no_ir = []
+        for k in validated:
+            parsed = parse_vless_key(k)
+            if not parsed:
+                continue
+            host = parsed.get("host", "").lower()
+            sni = parsed.get("params", {}).get("sni", "").lower()
+            if host.endswith(".ir") or sni.endswith(".ir") or ".ir:" in k:
+                continue
+            no_ir.append(k)
+        if len(no_ir) < len(validated):
+            logging.warning(f"URL {url}: отфильтровано {len(validated) - len(no_ir)} иранских ключей (.ir)")
+        validated = no_ir
+
         # Дедупликация
         dedup = deduplicate_keys(validated)
         if len(dedup) < len(validated):
@@ -181,7 +192,7 @@ def main():
     }
 
     for country in list(COUNTRIES.keys()):
-        filtered = filter_keys(black_keys, country)[:70]
+        filtered = filter_keys(black_keys, country)[:100]
         print(f"[{country}] {len(filtered)} ключей, проверяем...")
         results[country] = check_mode(filtered, old_first_seen)
         print(f"[{country}] Рабочих: {results[country]['total_working']}/{results[country]['total']}")
