@@ -236,11 +236,32 @@ def parse_country_from_key(key: str) -> Optional[Tuple[str, str]]:
         return None, None
 
 
+# Транспорты, не поддерживаемые NekoBox (sing-box): "unknown transport type: xhttp"
+UNSUPPORTED_TRANSPORTS = {"xhttp", "splithttp"}
+
+# HTTP-порты Cloudflare: VLESS поверх них без TLS — мёртвые ws-пустышки (ошибки 500/530/403/404)
+CLOUDFLARE_HTTP_PORTS = {80, 8080, 8880, 2052, 2082, 2086, 2095}
+
+
 def validate_key(key: str) -> bool:
     """
     Проверяет базовую валидность VLESS-ключа.
+    Отбрасывает ключи, несовместимые с NekoBox (sing-box),
+    и неработающие Cloudflare ws-пустышки на HTTP-портах без шифрования.
     """
-    return parse_vless_key(key) is not None
+    parsed = parse_vless_key(key)
+    if not parsed:
+        return False
+
+    transport = (parsed["params"].get("type") or "tcp").lower()
+    if transport in UNSUPPORTED_TRANSPORTS:
+        return False
+
+    security = (parsed["params"].get("security") or "none").lower()
+    if parsed["port"] in CLOUDFLARE_HTTP_PORTS and security == "none":
+        return False
+
+    return True
 
 
 def deduplicate_keys(keys: List[str]) -> List[str]:

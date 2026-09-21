@@ -138,7 +138,9 @@ def check_mode(keys, old_first_seen=None):
             if result:
                 working.append(result)
 
-    working.sort(key=lambda x: x["latency_ms"])
+    # Reality-ключи стабильнее всего работают в РФ — ставим их вперёд,
+    # внутри группы сортируем по latency
+    working.sort(key=lambda x: (x.get("security") != "reality", x["latency_ms"]))
 
     for r in working:
         r["first_seen"] = old_first_seen.get(r["key"], now)
