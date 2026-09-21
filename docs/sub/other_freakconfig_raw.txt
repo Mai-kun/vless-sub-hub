@@ -1,2 +1,2 @@
-vless://56a182fc-c306-4701-8eef-6f8e08be3d1a@188.114.98.47:443?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%5BFR%5D%20%7C%20FRE%20%7C%207ms%20%7C%20tcp
-vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?encryption=none&security=none&type=tcp&headerType=none#%5BFR%5D%20%7C%20FRE%20%7C%20250ms%20%7C%20tcp
+vless://56a182fc-c306-4701-8eef-6f8e08be3d1a@188.114.98.47:443?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%5BFR%5D%20%7C%20FRE%20%7C%2019ms%20%7C%20tcp
+vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?encryption=none&security=none&type=tcp&headerType=none#%5BFR%5D%20%7C%20FRE%20%7C%20199ms%20%7C%20tcp
