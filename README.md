@@ -1,136 +1,99 @@
-# VLESS Key Checker — бесплатные рабочие VLESS-ключи для России
+# VLESS Sub Hub — Актуальные и проверенные VLESS-ключи
 
-Автоматически обновляемые бесплатные VLESS-ключи для обхода блокировок в России. Проверенные серверы Эстония, Финляндия, Германия, Швеция, Нидерланды и другие страны. Совместимо с v2rayNG, Hiddify, Streisand, v2rayTUN и другими клиентами, поддерживающими VLESS/Reality.
+[![Check VLESS Keys](https://github.com/Mai-kun/vless-sub-hub/actions/workflows/check_keys.yml/badge.svg)](https://github.com/Mai-kun/vless-sub-hub/actions/workflows/check_keys.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Update Interval](https://img.shields.io/badge/Обновление-каждые%2030%20минут-blue.svg)](https://mai-kun.github.io/vless-sub-hub/)
 
-> 📌 Все ключи проверяются каждые 30 минут через headless Xray. Если все ключи в категории оказались недоступны, она временно скрывается.
+Автоматически обновляемый репозиторий бесплатных VLESS-ключей (включая Reality и TLS) для обхода блокировок в России. Все серверы проходят строгую проверку через headless Xray каждые 30 минут.
 
----
-
-## 📦 Подписки (ссылки для импорта)
-
-Добавьте одну из ссылок ниже в VPN-клиент для автоматического получения обновляемых ключей.
-
-### Полная подписка (все ключи)
-
-| Формат | Ссылка |
-|--------|--------|
-| Base64 (для клиентов) | `https://raw.githubusercontent.com/Mai-kun/vless-checker/main/docs/sub/all.txt` |
-| Raw (для ручного копирования) | `https://raw.githubusercontent.com/Mai-kun/vless-checker/main/docs/sub/all_raw.txt` |
-
-### VPN (Чёрный список) — по странам
-
-| Регион | Base64 | Raw |
-|--------|--------|-----|
-| 🇱🇹🇪🇪🇱🇻 Прибалтика | `docs/sub/vpn_baltics.txt` | `docs/sub/vpn_baltics_raw.txt` |
-| 🇫🇮 Финляндия | `docs/sub/vpn_finland.txt` | `docs/sub/vpn_finland_raw.txt` |
-| 🇩🇪 Германия | `docs/sub/vpn_germany.txt` | `docs/sub/vpn_germany_raw.txt` |
-| 🇸🇪 Швеция | `docs/sub/vpn_sweden.txt` | `docs/sub/vpn_sweden_raw.txt` |
-| 🇳🇱 Нидерланды | `docs/sub/vpn_netherlands.txt` | `docs/sub/vpn_netherlands_raw.txt` |
-| 🇵🇱 Польша | `docs/sub/vpn_poland.txt` | `docs/sub/vpn_poland_raw.txt` |
-| 🌍 Остальные страны | `docs/sub/other_other.txt` | `docs/sub/other_other_raw.txt` |
-
-### Белые списки
-
-| Регион | Base64 | Raw |
-|--------|--------|-----|
-| 🇱🇹🇪🇪🇱🇻 Прибалтика (BL) | `docs/sub/w_baltics.txt` | `docs/sub/w_baltics_raw.txt` |
-| 🇫🇮 Финляндия (BL) | `docs/sub/w_finland.txt` | `docs/sub/w_finland_raw.txt` |
-| 🇩🇪 Германия (BL) | `docs/sub/w_germany.txt` | `docs/sub/w_germany_raw.txt` |
-| 🇸🇪 Швеция (BL) | `docs/sub/w_sweden.txt` | `docs/sub/w_sweden_raw.txt` |
-| 🇳🇱 Нидерланды (BL) | `docs/sub/w_netherlands.txt` | `docs/sub/w_netherlands_raw.txt` |
-| 🇵🇱 Польша (BL) | `docs/sub/w_poland.txt` | `docs/sub/w_poland_raw.txt` |
-| 🌍 Остальные (BL) | `docs/sub/w_other.txt` | `docs/sub/w_other_raw.txt` |
-| 🇷🇺 Россия (Москва) | `docs/sub/russia.txt` | `docs/sub/russia_raw.txt` |
-
-> **Как использовать ссылку:** откройте ссылку в браузере — скопируйте содержимое страницы или используйте ссылку напрямую в клиенте (v2rayNG: «Из буфера обмена» или «Добавить подписку по URL»).
-
-Полные ссылки формируются так:
-```
-https://raw.githubusercontent.com/Mai-kun/vless-checker/main/docs/sub/ИМЯ_ФАЙЛА.txt
-```
-Например:
-```
-https://raw.githubusercontent.com/Mai-kun/vless-checker/main/docs/sub/vpn_germany.txt
-```
+🌐 **GitHub Pages (веб-версия и бэкенд подписок):** [https://mai-kun.github.io/vless-sub-hub/](https://mai-kun.github.io/vless-sub-hub/)
 
 ---
 
-## 📋 Как пользоваться
+## 📱 QR-код для быстрого импорта (Все ключи)
 
-1. Выберите страну для **обычного VPN** — рекомендуются Прибалтика, Финляндия, Германия, Швеция, Нидерланды, Польша
-2. Или выберите страну в разделе **Белые списки** — только заблокированные сайты идут через VPN
-3. **Россия (Москва)** — ключи через московские серверы
-4. Нажмите **Копировать** и вставьте ключ в приложение (Hiddify, v2rayTUN, Streisand, v2rayNG)
-5. Ключи обновляются автоматически **каждые 30 минут**
+Отсканируйте этот QR-код в вашем VPN-клиенте для мгновенного добавления общей подписки:
 
----
-
-## 🚀 Быстрый старт (локальный запуск)
-
-### Требования
-- Python 3.10+
-- [Xray-core](https://github.com/XTLS/Xray-core/releases) (для проверки ключей через headless Xray) — либо положите бинарник `xray`/`xray.exe` в корень проекта, либо задайте переменную окружения `XRAY_BIN`
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https://mai-kun.github.io/vless-sub-hub/sub/all.txt" alt="QR Code for VLESS Subscription" />
+</p>
 
 ---
 
-## 🔧 Описание проектных файлов
+## 📦 Ссылки на подписки
 
-| Файл | Назначение |
-|------|------------|
-| `check_and_save.py` | Основной скрипт: загрузка ключей из GitHub, проверка через Xray, генерация `docs/keys.json` и подписок в `docs/sub/` |
-| `checker.py` | Упрощённый локальный чекер (TCP + TLS рукопожатие, без Xray) |
-| `vless_utils.py` | Общие утилиты: парсинг VLESS-ключей, проверка TCP/TLS, кэширование DNS, построение Xray-конфигов |
-| `subscriptions.py` | Генерация подписок (Base64 + Raw) из результатов проверки |
-| `docs/keys.json` | Актуальные результаты проверки ключей (обновляется каждые 30 минут в CI) |
-| `docs/sub/` | Сгенерированные подписки (`.txt` — Base64, `_raw.txt` — сырой список) |
-| `working_keys.txt` | Лучшие рабочие ключи (результат `checker.py`) |
-| `.github/workflows/check_keys.yml` | GitHub Actions: запуск проверки каждые 30 минут |
+Добавьте любую из ссылок ниже в ваш VPN-клиент для автоматического получения рабочих серверов.
 
----
+### Основные подписки
+| Категория | Ссылка для импорта (Base64) | Сырой список (Raw) |
+| :--- | :--- | :--- |
+| **🌐 Все ключи** | [`sub/all.txt`](https://mai-kun.github.io/vless-sub-hub/sub/all.txt) | [`sub/all_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/all_raw.txt) |
 
-## 🌐 Доступные категории ключей
+### VPN по регионам (Чёрный список)
+| Регион / Страна | Ссылка для импорта (Base64) | Сырой список (Raw) |
+| :--- | :--- | :--- |
+| 🇱🇹🇪🇪🇱🇻 Прибалтика | [`sub/vpn_baltics.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_baltics.txt) | [`sub/vpn_baltics_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_baltics_raw.txt) |
+| 🇫🇮 Финляндия | [`sub/vpn_finland.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_finland.txt) | [`sub/vpn_finland_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_finland_raw.txt) |
+| 🇩🇪 Германия | [`sub/vpn_germany.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_germany.txt) | [`sub/vpn_germany_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_germany_raw.txt) |
+| 🇸🇪 Швеция | [`sub/vpn_sweden.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_sweden.txt) | [`sub/vpn_sweden_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_sweden_raw.txt) |
+| 🇳🇱 Нидерланды | [`sub/vpn_netherlands.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_netherlands.txt) | [`sub/vpn_netherlands_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_netherlands_raw.txt) |
+| 🇵🇱 Польша | [`sub/vpn_poland.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_poland.txt) | [`sub/vpn_poland_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/vpn_poland_raw.txt) |
+| 🌍 Остальные страны | [`sub/other_other.txt`](https://mai-kun.github.io/vless-sub-hub/sub/other_other.txt) | [`sub/other_other_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/other_other_raw.txt) |
 
-### Обычный VPN (Чёрный список)
-Серверы в этих странах: **Эстония, Латвия, Литва, Финляндия, Германия, Швеция, Нидерланды, Польша** и другие.
-Подходят для обхода блокировок при обычном использовании интернета.
-
-### Белые списки (Whitelist)
-Только **заблокированные сайты** идут через VPN, остальной трафик идёт напрямую.
-- **Прибалтика, Финляндия, Германия, Швеция, Нидерланды, Польша** — BL-режим для этих стран
-- **Россия (Москва)** — трафик через московские серверы (для обхода ограничений)
-
----
-
-## 💡 Рекомендуемые клиенты
-
-| Клиент | Платформа | Примечание |
-|--------|-----------|------------|
-| Hiddify | Windows, macOS, Android, iOS | Рекомендован, поддерживает Reality из коробки |
-| v2rayNG | Android | Импорт через QR-код или подписку |
-| v2rayTUN | Android | Полная поддержка VLESS |
-| NekoBox | Android | Мультипротокольный |
+### Белые списки (маршрутизация трафика)
+*Только заблокированные ресурсы идут через VPN, остальной трафик — напрямую.*
+| Регион (Whitelist) | Ссылка для импорта (Base64) | Сырой список (Raw) |
+| :--- | :--- | :--- |
+| 🇱🇹🇪🇪🇱🇻 Прибалтика (BL) | [`sub/w_baltics.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_baltics.txt) | [`sub/w_baltics_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_baltics_raw.txt) |
+| 🇫🇮 Финляндия (BL) | [`sub/w_finland.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_finland.txt) | [`sub/w_finland_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_finland_raw.txt) |
+| 🇩🇪 Германия (BL) | [`sub/w_germany.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_germany.txt) | [`sub/w_germany_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_germany_raw.txt) |
+| 🇸🇪 Швеция (BL) | [`sub/w_sweden.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_sweden.txt) | [`sub/w_sweden_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_sweden_raw.txt) |
+| 🇳🇱 Нидерланды (BL) | [`sub/w_netherlands.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_netherlands.txt) | [`sub/w_netherlands_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_netherlands_raw.txt) |
+| 🇵🇱 Польша (BL) | [`sub/w_poland.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_poland.txt) | [`sub/w_poland_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/w_poland_raw.txt) |
+| 🇷🇺 Россия (Москва) | [`sub/russia.txt`](https://mai-kun.github.io/vless-sub-hub/sub/russia.txt) | [`sub/russia_raw.txt`](https://mai-kun.github.io/vless-sub-hub/sub/russia_raw.txt) |
 
 ---
 
-## 📊 Структура ключей в данных
+## 🛠️ Инструкция по настройке для клиентов
 
-Каждый ключ в `docs/keys.json` содержит:
-- `best` — лучший ключ по скорости
-- `top10` — ТОП-10 самых быстрых ключей (с latency в мс, security-типом, timestamp первого обнаружения)
-- `total_working` — количество рабочих ключей
-- `total` — общее количество протестированных ключей
+Выберите ваш клиент и выполните пошаговую настройку для подключения подписки и фильтрации нод.
+
+### 🤖 Android
+1. **v2rayNG / Hiddify:**
+   - Скопируйте ссылку на подписку (например, `https://mai-kun.github.io/vless-sub-hub/sub/all.txt`).
+   - Откройте приложение, нажмите кнопку **`+`** (или «Добавить профиль» / «Добавить подписку»).
+   - Выберите **«Добавить подписку по URL»** (или вставьте ссылку в поле подписки).
+   - Вставьте скопированную ссылку, укажите имя (например, `VLESS Hub`) и сохраните.
+   - Сделайте обновление (Pull-to-refresh) для загрузки всех нод.
+
+### 🍏 iOS (iPhone / iPad)
+1. **Streisand / Happ / Shadowrocket:**
+   - Скопируйте ссылку на подписку (`https://mai-kun.github.io/vless-sub-hub/sub/all.txt`).
+   - Откройте приложение, нажмите **`+`** в правом верхнем углу.
+   - Выберите тип подключения **«Подписка»** (Subscription).
+   - Вставьте URL-ссылку, сохраните и обновите подписку.
+
+### 💻 Windows / macOS
+1. **v2rayN / Hiddify:**
+   - Скопируйте ссылку на подписку.
+   - В **Hiddify**: нажмите «Добавить из буфера обмена» или кнопку плюса -> «Добавить подписку».
+   - В **v2rayN**: перейдите в меню *«Группы подписок»* -> *«Добавить»*, вставьте ссылку и имя, затем нажмите *«Обновить подписку»*.
 
 ---
 
-## ⚙️ Автоматическое обновление
+### ⚡ Полезные советы по настройке
+- **Автообновление:** В настройках вашего клиента включите автоматическое обновление подписки при запуске приложения или по расписанию (каждые 1-6 часов).
+- **Фильтрация по задержке (Real Delay):** Перед подключением запустите проверку задержки (в v2rayNG / v2rayN выберите все ноды и нажмите **Test Link / Real Delay**). Отсортируйте список по пингу, чтобы выбрать самый быстрый сервер с минимальной задержкой.
 
-Проект использует GitHub Actions для непрерывного обновления:
-- Запуск каждые **30 минут**
-- Каждый запуск скачивает свежие ключи из исходных источников, проверяет их через Xray и обновляет `docs/keys.json` и подписки в `docs/sub/`
-- При наличии изменений — автоматический коммит и пуш
+---
+
+## 🔄 Как это работает
+1. Скрипты автоматически собирают свежие списки ключей из публичных источников.
+2. Каждый ключ проверяется реальным HTTP-запросом через headless Xray (`cp.cloudflare.com/generate_204`).
+3. Результаты и рабочие ноды публикуются в `docs/keys.json`, а текстовые подписки генерируются в `docs/sub/`.
+4. GitHub Actions выполняет этот цикл каждые 30 минут полностью в автоматическом режиме.
 
 ---
 
 ## 📄 Лицензия
-
-Проект предоставлен «как есть». Используйте на свой страх и риск.
+Проект распространяется на условиях лицензии [MIT](LICENSE).

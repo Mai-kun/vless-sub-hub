@@ -157,7 +157,7 @@ def test_key_tcp(
                 security = params.get("security", "")
                 sni = params.get("sni") or host  # если sni="" или None, используем host
 
-                if security in ("tls", "reality"):
+                if security == "tls":
                     rem_timeout = max(timeout - (time.time() - start), 0.5)
                     tls_ok = test_tls_handshake(sock, sni, rem_timeout)
                     if not tls_ok:

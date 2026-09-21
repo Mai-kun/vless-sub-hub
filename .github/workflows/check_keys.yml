@@ -50,6 +50,6 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: update keys and subscriptions"
+          git commit -m "chore: update keys and subscriptions [skip ci]"
           git pull --rebase
           git push
