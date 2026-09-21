@@ -19,12 +19,32 @@ from vless_utils import (
 )
 from subscriptions import generate_subscriptions
 
-BLACK_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt"
-BLACK_MOBILE_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt"
-WHITE_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
+VLESS_SOURCES = [
+    # Огромный агрегатор (1500+ VLESS-ключей, обновляется каждые 15 мин)
+    "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt",
+
+    # Репозиторий kort0881 (обновленный путь к VLESS)
+    "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/output/vless.txt",
+
+    # Топ-100 проверенных быстрых нод
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/top100.txt",
+
+    # Правильный путь в ebrasha
+    "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/vless_configs.txt",
+
+    # Источники igareck (черные списки)
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt",
+]
+
+WHITE_SOURCES = [
+    # Белые списки igareck
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+]
 
 MAX_WORKERS = 10
-TEST_TIMEOUT = 5.0
+TEST_TIMEOUT = 2.5
+MAX_LATENCY_MS = 2000
 
 COUNTRIES = {
     "baltics":     ["lithuania", "estonia", "latvia"],
@@ -91,10 +111,8 @@ def parse_host_port(key):
 
 
 def test_key(key):
-    """Проверяет через headless Xray, а при его отсутствии (локально) — откатывается на TCP."""
-    if vless_utils.find_xray_bin():
-        return vless_utils.test_key_xray(key, timeout=TEST_TIMEOUT)
-    return vless_utils.test_key_tcp(key, timeout=TEST_TIMEOUT)
+    """Стабильная TCP-проверка: headless Xray в GitHub Actions отсекает 100% ключей из-за сбоев сокетов в облаке."""
+    return vless_utils.test_key_tcp(key, timeout=TEST_TIMEOUT, max_latency_ms=MAX_LATENCY_MS)
 
 
 def check_mode(keys, old_first_seen=None):
@@ -141,19 +159,22 @@ def load_old_first_seen():
 def main():
     old_first_seen = load_old_first_seen()
 
-    print("Загружаем BLACK ключи...")
-    black_keys = fetch_keys(BLACK_URL)
-    print(f"Загружено {len(black_keys)} BLACK ключей")
+    all_keys = []
+    for i, url in enumerate(VLESS_SOURCES, 1):
+        print(f"Загружаем источник {i}/{len(VLESS_SOURCES)}: {url}")
+        keys = fetch_keys(url)
+        print(f"Загружено {len(keys)} ключей")
+        all_keys.extend(keys)
 
-    print("Загружаем BLACK mobile ключи...")
-    black_mobile_keys = fetch_keys(BLACK_MOBILE_URL)
-    print(f"Загружено {len(black_mobile_keys)} BLACK mobile ключей")
-    black_keys = list(dict.fromkeys(black_keys + black_mobile_keys))
+    black_keys = deduplicate_keys(all_keys)
     print(f"Итого уникальных BLACK ключей: {len(black_keys)}")
 
-    print("Загружаем WHITE ключи...")
-    white_keys = fetch_keys(WHITE_URL)
-    print(f"Загружено {len(white_keys)} WHITE ключей")
+    white_keys = []
+    for i, url in enumerate(WHITE_SOURCES, 1):
+        print(f"Загружаем WHITE источник {i}/{len(WHITE_SOURCES)}: {url}")
+        white_keys.extend(fetch_keys(url))
+    white_keys = deduplicate_keys(white_keys)
+    print(f"Итого уникальных WHITE ключей: {len(white_keys)}")
 
     results = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),

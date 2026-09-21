@@ -154,9 +154,11 @@ def test_key_tcp(
             elapsed = round((time.time() - start) * 1000, 1)
 
             if result == 0 and elapsed <= max_latency_ms:
-                security = params.get("security", "")
+                security = (params.get("security") or "").lower()
                 sni = params.get("sni") or host  # если sni="" или None, используем host
 
+                # TLS handshake только для security == "tls";
+                # для security == "reality" достаточно успешного TCP-коннекта (result == 0)
                 if security == "tls":
                     rem_timeout = max(timeout - (time.time() - start), 0.5)
                     tls_ok = test_tls_handshake(sock, sni, rem_timeout)
