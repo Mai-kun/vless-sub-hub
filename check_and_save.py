@@ -138,9 +138,8 @@ def check_mode(keys, old_first_seen=None):
             if result:
                 working.append(result)
 
-    # Reality-ключи стабильнее всего работают в РФ — ставим их вперёд,
-    # внутри группы сортируем по latency
-    working.sort(key=lambda x: (x.get("security") != "reality", x["latency_ms"]))
+    # Сначала ноды на нестандартных портах, затем по пингу.
+    working.sort(key=lambda x: (x["port"] in (443, 80), x["latency_ms"]))
 
     for r in working:
         r["first_seen"] = old_first_seen.get(r["key"], now)
@@ -194,7 +193,7 @@ def main():
     }
 
     for country in list(COUNTRIES.keys()):
-        filtered = filter_keys(black_keys, country)[:100]
+        filtered = filter_keys(black_keys, country)[:120]
         print(f"[{country}] {len(filtered)} ключей, проверяем...")
         results[country] = check_mode(filtered, old_first_seen)
         print(f"[{country}] Рабочих: {results[country]['total_working']}/{results[country]['total']}")

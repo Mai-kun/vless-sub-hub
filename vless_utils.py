@@ -263,6 +263,11 @@ def validate_key(key: str) -> bool:
     if security not in ("tls", "reality"):
         return False
 
+    if security == "reality":
+        pbk = parsed["params"].get("pbk", "")
+        if not re.fullmatch(r"[A-Za-z0-9_-]{43}=?", pbk):
+            return False
+
     host = parsed.get("host", "").lower()
     if any(domain in host for domain in BAD_DOMAINS):
         return False
