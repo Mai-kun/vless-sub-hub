@@ -52,6 +52,15 @@ COUNTRIES = {
 
 COUNTRIES_ALL_KEYWORDS = [kw for kws in COUNTRIES.values() for kw in kws]
 
+# Для этих стран проверяем больше ключей: там чаще встречаются живучие Reality-ноды
+# на нестандартных портах, и они успевают попасть в выборку.
+COUNTRY_KEY_LIMITS = {
+    "germany": 150,
+    "netherlands": 150,
+    "sweden": 150,
+}
+DEFAULT_KEY_LIMIT = 120
+
 SKIP_COUNTRY_NAMES = {"anycast", "anycast-ip", "unknown"}
 
 
@@ -138,8 +147,17 @@ def check_mode(keys, old_first_seen=None):
             if result:
                 working.append(result)
 
-    # Сначала ноды на нестандартных портах, затем по пингу.
-    working.sort(key=lambda x: (x["port"] in (443, 80), x["latency_ms"]))
+    def sort_priority(x):
+        is_std_port = x["port"] in (443, 80)
+        is_reality = x.get("security") == "reality"
+        # 0: Reality на нестандартном порту (самые живучие)
+        # 1: Reality на стандартном порту
+        # 2: WS/TLS на нестандартном порту
+        # 3: WS/TLS на стандартном порту
+        tier = 0 if (is_reality and not is_std_port) else (1 if is_reality else (2 if not is_std_port else 3))
+        return (tier, x["latency_ms"])
+
+    working.sort(key=sort_priority)
 
     for r in working:
         r["first_seen"] = old_first_seen.get(r["key"], now)
@@ -193,7 +211,8 @@ def main():
     }
 
     for country in list(COUNTRIES.keys()):
-        filtered = filter_keys(black_keys, country)[:120]
+        limit = COUNTRY_KEY_LIMITS.get(country, DEFAULT_KEY_LIMIT)
+        filtered = filter_keys(black_keys, country)[:limit]
         print(f"[{country}] {len(filtered)} ключей, проверяем...")
         results[country] = check_mode(filtered, old_first_seen)
         print(f"[{country}] Рабочих: {results[country]['total_working']}/{results[country]['total']}")

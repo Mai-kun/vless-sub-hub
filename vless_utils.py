@@ -246,7 +246,11 @@ BAD_DOMAINS = (
     "serverslocal.ru",
     "banovano.space",
     "biznes.lol",
+    "failspace.top",
 )
+
+# Подсети, заблокированные ТСПУ в РФ
+BLOCKED_HOST_PREFIXES = ("31.76.", "31.77.")
 
 
 def validate_key(key: str) -> bool:
@@ -269,6 +273,8 @@ def validate_key(key: str) -> bool:
             return False
 
     host = parsed.get("host", "").lower()
+    if host.startswith(BLOCKED_HOST_PREFIXES):
+        return False
     if any(domain in host for domain in BAD_DOMAINS):
         return False
 
