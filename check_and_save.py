@@ -42,8 +42,8 @@ WHITE_SOURCES = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
 ]
 
-MAX_WORKERS = 10
-TEST_TIMEOUT = 2.5
+MAX_WORKERS = 40
+TEST_TIMEOUT = 1.8
 MAX_LATENCY_MS = 2000
 
 COUNTRIES = {
@@ -181,7 +181,7 @@ def main():
     }
 
     for country in list(COUNTRIES.keys()):
-        filtered = filter_keys(black_keys, country)
+        filtered = filter_keys(black_keys, country)[:70]
         print(f"[{country}] {len(filtered)} ключей, проверяем...")
         results[country] = check_mode(filtered, old_first_seen)
         print(f"[{country}] Рабочих: {results[country]['total_working']}/{results[country]['total']}")
@@ -202,14 +202,14 @@ def main():
     other_countries = {}
     for name, keys in country_groups.items():
         print(f"  [{name}] {len(keys)} ключей, проверяем...")
-        checked = check_mode(keys, old_first_seen)
+        checked = check_mode(keys[:40], old_first_seen)
         print(f"  [{name}] Рабочих: {checked['total_working']}/{checked['total']}")
         checked["flag"] = country_flags[name]
         other_countries[name] = checked
     results["other_countries"] = other_countries
 
     for mode in ("w_baltics", "w_finland", "w_germany", "w_sweden", "w_netherlands", "w_poland", "w_other", "russia"):
-        filtered = filter_keys(white_keys, mode)
+        filtered = filter_keys(white_keys, mode)[:50]
         print(f"[{mode}] {len(filtered)} ключей, проверяем...")
         results[mode] = check_mode(filtered, old_first_seen)
         print(f"[{mode}] Рабочих: {results[mode]['total_working']}/{results[mode]['total']}")
