@@ -1,1 +1,2 @@
-vless://0e7b66f1-567a-4527-b330-5a7b006d198c@144.31.28.21:443?security=reality&encryption=none&pbk=T0hPoN_eVwntNZZ3Djyfi8AQK8U0dGRmygP5jNJ6bk8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finland.biznes.lol#%5BUN%5D%20%7C%20FINLAND%20%7C%20165ms%20%7C%20reality
+vless://0e7b66f1-567a-4527-b330-5a7b006d198c@144.31.28.21:443?security=reality&encryption=none&pbk=T0hPoN_eVwntNZZ3Djyfi8AQK8U0dGRmygP5jNJ6bk8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finland.biznes.lol#%5BUN%5D%20%7C%20FINLAND%20%7C%20159ms%20%7C%20reality
+vless://592ead02-6836-4987-a5c3-c75cea64948f@144.31.156.247:5432?security=tls&headerType=none&flow=xtls-rprx-vision&fp=android#%5BFI%5D%20%7C%20FINLAND%20%7C%20212ms%20%7C%20tcp
