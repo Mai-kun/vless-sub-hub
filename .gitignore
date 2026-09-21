@@ -1,4 +1,7 @@
-venv/
+.xray/
+*.zip
 __pycache__/
 *.pyc
+venv/
 working_keys.txt
+PLAN.md

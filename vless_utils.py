@@ -284,7 +284,7 @@ def find_xray_bin() -> Optional[str]:
 def _allocate_local_port() -> int:
     global _next_local_port
     with _port_lock:
-        port = _next_local_port
+        port = 20000 + (_next_local_port % 40000)
         _next_local_port += 1
         return port
 

@@ -21,7 +21,7 @@ from subscriptions import generate_subscriptions
 
 BLACK_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt"
 BLACK_MOBILE_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt"
-WHITE_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt"
+WHITE_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
 
 MAX_WORKERS = 20
 TEST_TIMEOUT = 2.5
@@ -91,8 +91,10 @@ def parse_host_port(key):
 
 
 def test_key(key):
-    """Проверяет ключ реальным HTTP-запросом через headless Xray."""
-    return vless_utils.test_key_xray(key, timeout=TEST_TIMEOUT)
+    """Проверяет через headless Xray, а при его отсутствии (локально) — откатывается на TCP."""
+    if vless_utils.find_xray_bin():
+        return vless_utils.test_key_xray(key, timeout=TEST_TIMEOUT)
+    return vless_utils.test_key_tcp(key, timeout=TEST_TIMEOUT)
 
 
 def check_mode(keys, old_first_seen=None):
