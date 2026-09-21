@@ -23,8 +23,8 @@ BLACK_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/ma
 BLACK_MOBILE_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt"
 WHITE_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
 
-MAX_WORKERS = 20
-TEST_TIMEOUT = 2.5
+MAX_WORKERS = 10
+TEST_TIMEOUT = 5.0
 
 COUNTRIES = {
     "baltics":     ["lithuania", "estonia", "latvia"],

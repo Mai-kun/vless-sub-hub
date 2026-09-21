@@ -260,7 +260,7 @@ def deduplicate_keys(keys: List[str]) -> List[str]:
     return result
 
 
-PROBE_URL = "http://cp.cloudflare.com/generate_204"
+PROBE_URL = "http://www.gstatic.com/generate_204"
 XRAY_START_TIMEOUT = 3.0
 _port_lock = threading.Lock()
 _next_local_port = 20000
@@ -500,13 +500,13 @@ def test_key_xray(
                 PROBE_URL,
                 proxies={"http": proxy, "https": proxy},
                 timeout=timeout,
-                allow_redirects=False,
+                allow_redirects=True,
             )
             elapsed = round((time.time() - start) * 1000, 1)
         except requests.RequestException:
             return None
 
-        if resp.status_code != 204:
+        if resp.status_code not in (200, 204):
             return None
 
         return {
