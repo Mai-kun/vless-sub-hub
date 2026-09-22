@@ -1,1 +1,2 @@
-vless://d9d0f208-d582-41d5-bb7b-742671402810@82.117.87.129:9443?encryption=none&host=hub-de-03.hanvpn.cc&path=%2Fde03-ws-8e47a&security=tls&sni=hub-de-03.hanvpn.cc&type=ws&fp=edge#%5BDE%5D%20%7C%20WL%20%7C%20187ms%20%7C%20ws
+vless://8057eabc-921d-0002-9acb-80ccc6b48379@201.24.50.94:443?type=grpc&security=reality&encryption=none&sni=kerbal.mafioznik.xyz&pbk=wG3BS0H2EKpY2tpv9bWipTmafwIdXuUXPAZCpr1eZ0M&headerType=none&serviceName=Sosat&mode=gun&fp=firefox#%5BDE%5D%20%7C%20WL%20%7C%20145ms%20%7C%20reality
+vless://d9d0f208-d582-41d5-bb7b-742671402810@82.117.87.129:9443?encryption=none&security=tls&serviceName=de02-grpc-8e47a&sni=hub-de-02.hanvpn.cc&type=grpc&fp=firefox#%5BDE%5D%20%7C%20WL%20%7C%20149ms%20%7C%20grpc
