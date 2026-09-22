@@ -1,3 +1,2 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.158:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=at-dedic-new-two.failspace.top&type=tcp&fp=android#%5BAU%5D%20%7C%20AUS%20%7C%20103ms%20%7C%20tcp
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.190:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=austria-dedic1.failspace.top&type=tcp&fp=android#%5BAU%5D%20%7C%20AUS%20%7C%20103ms%20%7C%20tcp
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.30:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ad-dedic-3.failspace.top&type=tcp&fp=chrome#%5BAU%5D%20%7C%20AUS%20%7C%20103ms%20%7C%20tcp
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.158:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=at-dedic-new-two.failspace.top&type=tcp&fp=chrome#%5BAU%5D%20%7C%20AUS%20%7C%2098ms%20%7C%20tcp
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.190:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=austria-dedic1.failspace.top&type=tcp&fp=android#%5BAU%5D%20%7C%20AUS%20%7C%2099ms%20%7C%20tcp
