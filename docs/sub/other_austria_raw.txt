@@ -1,1 +1,1 @@
-vless://d9d0f208-d582-41d5-bb7b-742671402810@195.74.90.115:9443?encryption=none&security=tls&serviceName=vie01-grpc-8e47a&sni=hub-vie-01.hanvpn.cc&type=grpc&fp=android#%5BAU%5D%20%7C%20AUS%20%7C%20104ms%20%7C%20grpc
+vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@sfert.mervi.icu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sfert.mervi.icu&pbk=65er4qqKykhPqDu-01d2-rKHffO86Q-NnlYAQ28hDF0&sid=d3a788d813cb2050&fp=android#%5BAU%5D%20%7C%20AUS%20%7C%2098ms%20%7C%20reality
