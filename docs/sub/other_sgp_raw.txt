@@ -1,2 +1,1 @@
-vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?&security=reality&flow=xtls-rprx-vision&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&sid=36151c48e28cfb65&fp=chrome&sni=5.223.74.174&type=tcp&headerType=none&host=5.223.74.174&path=%2F#%5BSG%5D%20%7C%20SGP%20%7C%20218ms%20%7C%20reality
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.146.211:2096?&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F#%5BSG%5D%20%7C%20SGP%20%7C%203ms%20%7C%20ws
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.146.211:8443?&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F#%5BSG%5D%20%7C%20SGP%20%7C%205ms%20%7C%20ws
