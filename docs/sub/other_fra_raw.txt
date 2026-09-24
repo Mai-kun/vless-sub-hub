@@ -1,1 +1,2 @@
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.188.153:443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#%5BFR%5D%20%7C%20FRA%20%7C%2095ms%20%7C%20ws
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@77.110.104.125:8443?&security=reality&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&fp=chrome&sni=maps.apple.com&type=grpc&serviceName=&mode=gun#%5BFR%5D%20%7C%20FRA%20%7C%20185ms%20%7C%20reality
+vless://cc01f435-d561-4525-bf1f-7a9876d33207@130.49.218.208:5432?&security=tls&flow=xtls-rprx-vision&type=tcp&headerType=none&path=%2F#%5BFR%5D%20%7C%20FRA%20%7C%20147ms%20%7C%20tcp
