@@ -1,0 +1,3 @@
+vless://718b9643-20e3-4f9e-9f8d-87ce6801d55e@191.44.114.66:443?encryption=none&type=grpc&security=reality&sni=ai.android&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&sid=53499a662395&spx=%2F&allowInsecure=1&fp=chrome#%5BSE%5D%20%7C%20SWEDEN%20%7C%2098ms%20%7C%20reality
+vless://e1326768-f27e-4aa0-9c7b-0661aee5bc96@172.217.20.72:443?encryption=none&host=nervo24-564689748442.europe-north2.run.app&security=tls&sni=google.tm&type=ws&fp=edge#%5BSE%5D%20%7C%20SWEDEN%20%7C%20112ms%20%7C%20ws
+vless://e1326768-f27e-4aa0-9c7b-0661aee5bc96@172.217.20.72:443?encryption=none&security=tls&sni=Google.tm&alpn=http%2F1.1&type=ws&path=%2F&host=nervo24-564689748442.europe-north2.run.app&allowInsecure=0&insecure=0&fp=chrome#%5BSE%5D%20%7C%20SWEDEN%20%7C%20116ms%20%7C%20ws
