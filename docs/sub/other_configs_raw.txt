@@ -1,1 +1,1 @@
-vless://e9a6734a-d030-4b6a-a8e7-e7d668e34c19@95.181.162.80:8443?encryption=none&security=reality&sni=au2-images.shop.samsung.com&pbk=JhcbkKehZk28bnMxyDeAgki8RYaYSkJCaF552vml61s&sid=ac082a10&type=grpc&authority=&serviceName=xyz&mode=gun#%5BCO%5D%20%7C%20CON%20%7C%20110ms%20%7C%20reality
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&fp=firefox&alpn=h2&type=tcp&headerType=none#%5BCO%5D%20%7C%20CON%20%7C%20165ms%20%7C%20tcp
