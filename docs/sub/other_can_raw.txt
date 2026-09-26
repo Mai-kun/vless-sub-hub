@@ -1,1 +1,1 @@
-vless://1d54a125-8f1e-46bb-9a23-0ecf4ac92db8@104.21.8.201:2096?&security=tls&fp=chrome&sni=cdn-ca.skyvora.app&type=ws&headerType=none&host=cdn-ca.skyvora.app&path=%2Ffqg7aacd8s#%5BCA%5D%20%7C%20CAN%20%7C%2018ms%20%7C%20ws
+vless://effd18d2-a741-4d0d-8b84-39cc414136f1@198.255.87.230:443?&security=reality&flow=xtls-rprx-vision&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%5BCA%5D%20%7C%20CAN%20%7C%2042ms%20%7C%20reality
