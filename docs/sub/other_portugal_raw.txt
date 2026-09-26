@@ -1,0 +1,2 @@
+vless://c7fc009a-026b-46e5-a0c5-82e32bcabd69@185.231.233.129:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&security=reality&sid=1a72f72b8e04c3b7&sni=pt.monkeyvillage.pro&type=tcp#%5BPO%5D%20%7C%20POR%20%7C%20143ms%20%7C%20reality
+vless://c7fc009a-026b-46e5-a0c5-82e32bcabd69@pt.monkeyvillage.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pt.monkeyvillage.pro&fp=random&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&sid=1a72f72b8e04c3b7&type=tcp#%5BPO%5D%20%7C%20POR%20%7C%20144ms%20%7C%20reality
