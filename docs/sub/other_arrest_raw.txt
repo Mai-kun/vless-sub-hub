@@ -1,1 +1,1 @@
-vless://2b181a3a-c001-4145-845a-5d43a43837d5@8.35.211.188:8443?security=tls&type=ws&path=%2F&host=vpn-1fj.pages.dev&packetEncoding=xudp&sni=vpn-1fj.pages.dev&fp=chrome#%5BUS%5D%20%7C%20ARR%20%7C%208ms%20%7C%20ws
+vless://596be9d9-0bb9-41bc-bff5-1adb483cbc32@154.9.241.28:443?security=reality&type=tcp&packetEncoding=none&sni=www.amazon.com&fp=qq&flow=xtls-rprx-vision&sid=1ac9bcc4e8fd&pbk=NB_j6YyAs0xI5881v6cfx2jGUKb065ErIrHdOf8ZhVU#%5BUS%5D%20%7C%20ARR%20%7C%2035ms%20%7C%20reality
