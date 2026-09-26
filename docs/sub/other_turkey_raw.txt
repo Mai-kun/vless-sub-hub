@@ -1,1 +1,1 @@
-vless://6933bb34-cb01-4605-88c3-f335e4307d23@37.221.79.226:18443?encryption=none&security=reality&sni=www.sony.com&fp=random&pbk=9hnmqap98ULg2y1fk4aqAtQEtPLQPIypZNmnrb42VWs&sid=50d9ee91&spx=%2F&type=tcp#%5BTR%5D%20%7C%20TUR%20%7C%20125ms%20%7C%20reality
+vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%5BTR%5D%20%7C%20TUR%20%7C%20107ms%20%7C%20reality
