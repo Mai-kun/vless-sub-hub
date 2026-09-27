@@ -1,1 +1,1 @@
-vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:8443?encryption=none&fp=firefox&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&serviceName=TunService&sni=www.hp.com&type=grpc#%5BUA%5D%20%7C%20UKR%20%7C%20106ms%20%7C%20reality
+vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:8443?encryption=none&security=reality&sni=www.hp.com&fp=random&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&type=grpc&serviceName=TunService&mode=gun#%5BUA%5D%20%7C%20UKR%20%7C%20169ms%20%7C%20reality

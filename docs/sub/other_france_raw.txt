@@ -1,1 +1,1 @@
-vless://cc39844c-d9ba-4652-9cae-395933f4e353@hh.fwqfw783rg2dad.website:443?encryption=none&security=tls&sni=hh.fwqfw783rg2dad.website&type=ws&path=%2Fwebsocket&host=hh.fwqfw783rg2dad.website&ed=2560&fp=ios#%5BFR%5D%20%7C%20FRA%20%7C%20110ms%20%7C%20ws
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-fr4.pleiades.codes:443?encryption=none&security=tls&sni=assets-fr4.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService#%5BFR%5D%20%7C%20FRA%20%7C%20139ms%20%7C%20grpc
