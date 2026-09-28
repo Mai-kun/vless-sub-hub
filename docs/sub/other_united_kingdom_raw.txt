@@ -1,1 +1,2 @@
-vless://ac9a573b-67ff-4953-9e13-4cf43576f8f0@uk1.avalonvpn.me:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=hh.ru&pbk=8w1MyEJV4l9QeNWbYMXny5tTLNTw_9nsQ7jOuiQhix4&sid=9f8e7d6c5b4a3210&fp=firefox#%5BGB%5D%20%7C%20UNI%20%7C%20119ms%20%7C%20reality
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@davai6.api3-max.ru:443?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=davai6.api3-max.ru&type=tcp#%5BGB%5D%20%7C%20UNI%20%7C%2089ms%20%7C%20tcp
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@45.141.118.57:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=davai6.api3-max.ru#%5BGB%5D%20%7C%20UNI%20%7C%2090ms%20%7C%20tcp

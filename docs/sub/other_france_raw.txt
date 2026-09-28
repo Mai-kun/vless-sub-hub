@@ -1,2 +1,0 @@
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-fr4.pleiades.codes:443?encryption=none&security=tls&sni=assets-fr4.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService#%5BFR%5D%20%7C%20FRA%20%7C%2081ms%20%7C%20grpc
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@143.246.208.113:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.AssetService&sni=assets-fr4.pleiades.codes&type=grpc#%5BFR%5D%20%7C%20FRA%20%7C%2083ms%20%7C%20grpc
