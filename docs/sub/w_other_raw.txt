@@ -1,2 +1,1 @@
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sni=dl.google.com&serviceName=grpc-tunnel&fp=firefox#%5BGB%5D%20%7C%20WL%20%7C%20129ms%20%7C%20reality
-vless://82b1182b-dd98-4964-bb35-13b015739f32@95.129.236.117:443?encryption=none&security=tls&sni=dash.gearmonster.org&type=ws&path=%2Fedge%2Fnode8%2Fpush&host=dash.gearmonster.org&fp=ios#%5BRU%5D%20%7C%20WL%20%7C%2087ms%20%7C%20ws
+vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Fe5ws&host=dostavitos.stroymatdv.cc&fp=chrome#%5BUS%5D%20%7C%20WL%20%7C%20142ms%20%7C%20ws
