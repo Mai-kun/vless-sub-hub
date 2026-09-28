@@ -1,2 +1,2 @@
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:8443?security=tls&sni=OV-Germany1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#%5BDE%5D%20%7C%20GERMANY%20%7C%20108ms%20%7C%20ws
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.94:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#%5BUN%5D%20%7C%20GERMANY%20%7C%202ms%20%7C%20ws
+vless://2412bd96-925b-43f2-81d1-0ed4f0793699@91.132.160.209:443?encryption=none&flow=xtls-rprx-vision&pbk=9XSdNkmBhBszLYoODqMrm7r_JRur2PRbzF9T1Uf2AV0&security=reality&sid=f1004027e382c2fa&sni=dlcdn.apache.org&type=tcp&fp=chrome#%5BDE%5D%20%7C%20GERMANY%20%7C%20153ms%20%7C%20reality
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.94:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#%5BUN%5D%20%7C%20GERMANY%20%7C%205ms%20%7C%20ws
