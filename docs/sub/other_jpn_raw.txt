@@ -1,1 +1,2 @@
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@23.27.11.55:443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#%5BJP%5D%20%7C%20JPN%20%7C%20162ms%20%7C%20ws
+vless://d90087c3-54f5-4283-a13f-615260c8b0c7@139.162.109.56:443?&security=reality&flow=xtls-rprx-vision&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&fp=chrome&sni=googleapis.com&type=tcp&headerType=none&host=googleapis.com&path=%2F#%5BJP%5D%20%7C%20JPN%20%7C%20142ms%20%7C%20reality
+vless://0250424c-ae75-4b6b-890f-3fe26fae36c3@www.wto.org:8443?&security=tls&fp=edge&sni=jp.520785.xyz&type=ws&headerType=none&host=jp.520785.xyz&path=%2Fstatic%2Fmedia%2Fvideo-chunk.f4v#%5BJP%5D%20%7C%20JPN%20%7C%203ms%20%7C%20ws
