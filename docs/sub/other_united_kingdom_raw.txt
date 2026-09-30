@@ -1,2 +1,1 @@
-vless://f1bae2c1-f354-49d6-8ec2-43ea1cc2cd95@166.1.155.83:443?encryption=none&pbk=UDlM3OadeskS_9U-bhn4HWiH0BijsT22otsv-FzJERU&security=reality&sid=90980caa18ed&sni=yahoo.com&type=tcp&fp=chrome#%5BGB%5D%20%7C%20UNI%20%7C%2080ms%20%7C%20reality
-vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@45.88.12.119:2083?type=ws&headerType=none&security=tls&encryption=none&sni=crt.dodopanel.biz&alpn=http%2F1.1&path=%2Fvless-ws&fp=chrome#%5BGB%5D%20%7C%20UNI%20%7C%2097ms%20%7C%20ws
+vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@45.88.12.119:2083?type=ws&headerType=none&security=tls&encryption=none&sni=crt.dodopanel.biz&alpn=http%2F1.1&path=%2Fvless-ws&fp=chrome#%5BGB%5D%20%7C%20UNI%20%7C%20140ms%20%7C%20ws
