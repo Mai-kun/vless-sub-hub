@@ -1,2 +1,0 @@
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@45.132.177.76:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.DeService&sni=ru3.pleiades.codes&type=grpc#%5BDE%5D%20%7C%20WL%20%7C%20166ms%20%7C%20grpc
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@ru3.pleiades.codes:443?encryption=none&security=tls&sni=ru3.pleiades.codes&alpn=h2&fp=random&type=grpc&serviceName=cdn.v1.DeService#%5BDE%5D%20%7C%20WL%20%7C%20181ms%20%7C%20grpc
