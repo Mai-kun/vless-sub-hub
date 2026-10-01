@@ -1,2 +1,0 @@
-vless://1f7ffcae-2f87-4088-9cca-d472a04fb41b@fast7.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast7.slopllex.app&flow=xtls-rprx-vision&fp=edge#%5BFI%5D%20%7C%20WL%20%7C%20151ms%20%7C%20tcp
-vless://1f7ffcae-2f87-4088-9cca-d472a04fb41b@72.56.39.215:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=fast7.slopllex.app&type=tcp&fp=firefox#%5BFI%5D%20%7C%20WL%20%7C%20155ms%20%7C%20tcp

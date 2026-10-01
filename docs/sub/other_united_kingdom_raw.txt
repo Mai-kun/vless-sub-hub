@@ -1,1 +1,1 @@
-vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@45.88.12.119:2083?type=ws&headerType=none&security=tls&encryption=none&sni=crt.dodopanel.biz&alpn=http%2F1.1&path=%2Fvless-ws&fp=chrome#%5BGB%5D%20%7C%20UNI%20%7C%20140ms%20%7C%20ws
+vless://ee78dc0c-fcf8-4651-92a5-a7ae1476f2a4@217.179.221.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W7zjZJiEbAN6b-KkXWtk5dJ513BFDeKMSxgdiCUOWBo&security=reality&sid=a1ab5a56bcca&sni=ve.cishosts.org&type=tcp#%5BGB%5D%20%7C%20UNI%20%7C%20117ms%20%7C%20reality

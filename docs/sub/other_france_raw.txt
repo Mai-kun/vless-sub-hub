@@ -1,1 +1,2 @@
-vless://069a2bbd-3fc9-470f-a251-c836a96ed04a@34.155.146.201:443?encryption=none&type=raw&headerType=none&security=reality&pbk=SVT2WeXMIrumlh5VG1lbHN6YbqL7-u2iRkv1js8XEU4&sni=www.cloudflare.com&sid=3f95392a418ec8fd&fp=chrome#%5BFR%5D%20%7C%20FRA%20%7C%20194ms%20%7C%20reality
+vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@194.24.161.179:443?encryption=none&fp=firefox&path=/api/metric/ws&security=tls&sni=borsch.spravedlivost.fun&type=ws#%5BFR%5D%20%7C%20FRA%20%7C%20117ms%20%7C%20ws
+vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@borsch.spravedlivost.fun:443?encryption=none&security=tls&sni=borsch.spravedlivost.fun&fp=random&type=ws&path=%2Fapi%2Fmetric%2Fws#%5BFR%5D%20%7C%20FRA%20%7C%20128ms%20%7C%20ws
