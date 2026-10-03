@@ -1,2 +1,1 @@
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@it.monkora.org:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#%5BIT%5D%20%7C%20ITA%20%7C%2098ms%20%7C%20reality
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.213.20.133:443?encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=example.org&type=tcp#%5BIT%5D%20%7C%20ITA%20%7C%20101ms%20%7C%20reality
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@it.monkora.org:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#%5BIT%5D%20%7C%20ITA%20%7C%2097ms%20%7C%20reality
