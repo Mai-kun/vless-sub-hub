@@ -1,1 +1,2 @@
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t11.qifei.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&type=tcp&fp=firefox#%5BJP%5D%20%7C%20JAP%20%7C%20145ms%20%7C%20reality
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@jp.monkora.org:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#%5BJP%5D%20%7C%20JAP%20%7C%20150ms%20%7C%20reality
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t11.qifei.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=random&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&type=tcp#%5BJP%5D%20%7C%20JAP%20%7C%20155ms%20%7C%20reality

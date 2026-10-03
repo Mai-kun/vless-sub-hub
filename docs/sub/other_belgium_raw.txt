@@ -1,1 +1,1 @@
-vless://6d341f6e-7b9d-4ae3-999b-00333de7bdfb@35.240.62.249:443?encryption=none&type=raw&headerType=none&security=reality&pbk=v6QpErcVOVKIYLm53R3bAP8zIKCFr4HAJWW0VwBKtws&sni=www.cloudflare.com&sid=31f187650d9530bb&fp=chrome#%5BBE%5D%20%7C%20BEL%20%7C%20289ms%20%7C%20reality
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@be.monkora.org:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#%5BBE%5D%20%7C%20BEL%20%7C%2091ms%20%7C%20reality
