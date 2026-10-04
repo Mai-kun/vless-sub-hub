@@ -1,2 +1,2 @@
-vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@177.3.214.93:443?security=reality&encryption=none&pbk=KRjk7rvHj6sRNk6jhW12W9Ed9duywFEBNQXhnCJEPAI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=myfinlandfirtsdate.live#%5BUN%5D%20%7C%20FINLAND%20%7C%20155ms%20%7C%20reality
-vless://5786d86f-7731-4174-b1a3-84297e54b015@151.241.137.132:443?sni=finland.ali-bard.online&flow=xtls-rprx-vision&fp=firefox&security=tls#%5BUN%5D%20%7C%20FINLAND%20%7C%20142ms%20%7C%20tcp
+vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@177.3.214.93:443?security=reality&encryption=none&pbk=KRjk7rvHj6sRNk6jhW12W9Ed9duywFEBNQXhnCJEPAI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=myfinlandfirtsdate.live#%5BUN%5D%20%7C%20FINLAND%20%7C%20176ms%20%7C%20reality
+vless://5786d86f-7731-4174-b1a3-84297e54b015@151.241.137.132:443?sni=finland.ali-bard.online&flow=xtls-rprx-vision&fp=firefox&security=tls#%5BUN%5D%20%7C%20FINLAND%20%7C%20156ms%20%7C%20tcp
