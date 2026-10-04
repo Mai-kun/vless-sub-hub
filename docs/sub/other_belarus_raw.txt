@@ -1,1 +1,2 @@
-vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.90:2053?type=ws&security=tls&sni=wss.zazazuza.ru&alpn=http%2F1.1&path=%2Fvpn-wss%2Ffluxor%2F59011%2F&fp=android#%5BBE%5D%20%7C%20BEL%20%7C%20142ms%20%7C%20ws
+vless://0c4e0fa4-d16e-47a2-8325-39a1a8fb04d8@178.172.235.73:443?encryption=none&fp=firefox&security=tls&sni=gfgfdgdfg.apruxdomain.online&type=httpupgrade#%5BBE%5D%20%7C%20BEL%20%7C%20126ms%20%7C%20httpupgrade
+vless://0c4e0fa4-d16e-47a2-8325-39a1a8fb04d8@gfgfdgdfg.apruxdomain.online:443?type=httpupgrade&security=tls&fp=chrome&sni=gfgfdgdfg.apruxdomain.online#%5BBE%5D%20%7C%20BEL%20%7C%20131ms%20%7C%20httpupgrade
