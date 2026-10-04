@@ -1,2 +1,1 @@
-vless://0c4e0fa4-d16e-47a2-8325-39a1a8fb04d8@178.172.235.73:443?encryption=none&fp=firefox&security=tls&sni=gfgfdgdfg.apruxdomain.online&type=httpupgrade#%5BBE%5D%20%7C%20BEL%20%7C%20126ms%20%7C%20httpupgrade
-vless://0c4e0fa4-d16e-47a2-8325-39a1a8fb04d8@gfgfdgdfg.apruxdomain.online:443?type=httpupgrade&security=tls&fp=chrome&sni=gfgfdgdfg.apruxdomain.online#%5BBE%5D%20%7C%20BEL%20%7C%20131ms%20%7C%20httpupgrade
+vless://0c4e0fa4-d16e-47a2-8325-39a1a8fb04d8@gfgfdgdfg.apruxdomain.online:443?type=httpupgrade&security=tls&sni=gfgfdgdfg.apruxdomain.online&fp=qq#%5BBE%5D%20%7C%20BEL%20%7C%20168ms%20%7C%20httpupgrade

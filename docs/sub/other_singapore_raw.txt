@@ -1,2 +1,1 @@
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@103.106.229.236:443?type=tcp&security=reality&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=sg.monkora.org#%5BSG%5D%20%7C%20SIN%20%7C%20223ms%20%7C%20reality
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@sg.monkora.org:443?security=reality&type=tcp&sni=sg.monkora.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#%5BSG%5D%20%7C%20SIN%20%7C%20225ms%20%7C%20reality
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&host=speed.dulacloud.store&type=ws&sni=speed.dulacloud.store&allowInsecure=0&insecure=0#%5BSG%5D%20%7C%20SIN%20%7C%2018ms%20%7C%20ws

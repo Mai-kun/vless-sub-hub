@@ -1,2 +1,2 @@
-vless://ac0c2945-b758-11f1-8181-54db13ea7d40@201.51.21.201:443?&security=reality&flow=xtls-rprx-vision&pbk=T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY&fp=safari&sni=tradingview.com&type=tcp&headerType=none&host=tradingview.com&path=%2F#%5BNL%5D%20%7C%20NLD%20%7C%2091ms%20%7C%20reality
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.211:443?&security=tls&fp=edge&alpn=h2&sni=d3-nl1.cloud-cdn.xyz&type=grpc&serviceName=&mode=gun#%5BNL%5D%20%7C%20NLD%20%7C%2090ms%20%7C%20grpc
+vless://ac0c2945-b758-11f1-8181-54db13ea7d40@201.51.21.201:443?&security=reality&flow=xtls-rprx-vision&pbk=T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY&fp=safari&sni=tradingview.com&type=tcp&headerType=none&host=tradingview.com&path=%2F#%5BNL%5D%20%7C%20NLD%20%7C%20115ms%20%7C%20reality
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.211:443?&security=tls&fp=edge&alpn=h2&sni=d3-nl1.cloud-cdn.xyz&type=grpc&serviceName=&mode=gun#%5BNL%5D%20%7C%20NLD%20%7C%20123ms%20%7C%20grpc
