@@ -1,2 +1,2 @@
-vless://f517dad7-c4db-4dce-a291-199cf119271f@www.visa.com.hk:443?&security=tls&fp=random&sni=nl-ams.862400.xyz&type=ws&headerType=none&host=nl-ams.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%5BNL%5D%20%7C%20NLD%20%7C%208ms%20%7C%20ws
-vless://28c44e43-3584-4a04-9637-1684b5192558@yx.l110.us.ci:443?&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=v25.609929.xyz&type=ws&headerType=none&host=v25.609929.xyz&path=%2F%3Fed%3D2560#%5BNL%5D%20%7C%20NLD%20%7C%208ms%20%7C%20ws
+vless://f517dad7-c4db-4dce-a291-199cf119271f@www.visa.com.hk:443?&security=tls&fp=random&sni=nl-ams.862400.xyz&type=ws&headerType=none&host=nl-ams.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%5BNL%5D%20%7C%20NLD%20%7C%205ms%20%7C%20ws
+vless://28c44e43-3584-4a04-9637-1684b5192558@yx.l110.us.ci:443?&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=v25.609929.xyz&type=ws&headerType=none&host=v25.609929.xyz&path=%2F%3Fed%3D2560#%5BNL%5D%20%7C%20NLD%20%7C%206ms%20%7C%20ws
