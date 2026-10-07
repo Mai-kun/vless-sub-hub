@@ -1,8 +1,0 @@
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.4:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw&fp=edge#%5BNL%5D%20%7C%20WL%20%7C%2094ms%20%7C%20raw
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@nl.alpheratzz.org:8443?security=tls&flow=xtls-rprx-vision&sni=vusr-6ac431f4.adhil.uk&type=tcp&headerType=none&host=nl.alpheratzz.org&path=%2F&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%2094ms%20%7C%20tcp
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.250:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vusr-6ac431f4.adhil.uk&type=tcp&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%2097ms%20%7C%20tcp
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@nl.alpheratzz.org:8443?type=tcp&security=tls&sni=vusr-6ac513af.adhil.uk&alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%2098ms%20%7C%20tcp
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.4:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vusr-6ac431f4.adhil.uk&type=tcp&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%2098ms%20%7C%20tcp
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.4:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vusr-6ac513af.adhil.uk&type=tcp&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%20100ms%20%7C%20tcp
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.250:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vusr-6ac513af.adhil.uk&type=tcp&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%20102ms%20%7C%20tcp
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@nl.alpheratzz.org:8443?encryption=none&security=tls&type=tcp&flow=xtls-rprx-vision&fp=android#%5BNL%5D%20%7C%20WL%20%7C%20102ms%20%7C%20tcp
