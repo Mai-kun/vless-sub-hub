@@ -1,2 +1,1 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.106.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at-tati.failspace.top&type=tcp#%5BAU%5D%20%7C%20AUS%20%7C%2096ms%20%7C%20tcp
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@67.159.11.3:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=polkadot03.failspace.top&type=tcp#%5BAU%5D%20%7C%20AUS%20%7C%20104ms%20%7C%20tcp
+vless://698b212d-ca12-4794-8256-252a6e1b4533@195.74.90.122:443?encryption=none&fp=firefox&host=w2p6.vpnpolar.online&path=/beeline&security=tls&sni=w2p6.vpnpolar.online&type=ws#%5BAU%5D%20%7C%20AUS%20%7C%20113ms%20%7C%20ws
