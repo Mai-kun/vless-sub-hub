@@ -1,2 +1,1 @@
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@cz.monkora.org:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#%5BCZ%5D%20%7C%20CZE%20%7C%2094ms%20%7C%20reality
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@86.54.82.184:443?encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=example.org&type=tcp#%5BCZ%5D%20%7C%20CZE%20%7C%2096ms%20%7C%20reality
+vless://c3369c07-f0d2-4a2c-97ab-0d3d47803912@85.137.26.174:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=safari&pbk=1KY_jqa2yPLBEBa-3TG77zs4ak2zQLGul4eexxCueyI&allowInsecure=1#%5BCZ%5D%20%7C%20CZE%20%7C%20172ms%20%7C%20reality
