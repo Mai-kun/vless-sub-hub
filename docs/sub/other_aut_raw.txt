@@ -1,1 +1,1 @@
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20117ms%20%7C%20ws
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?&security=reality&flow=xtls-rprx-vision&pbk=uC4W93YTVI5kbpN5ih2WZfQjikpNBn61-AhljO8ExFg&sid=fa764ccf&fp=randomized&sni=addons.mozilla.org&type=tcp&headerType=none&host=addons.mozilla.org&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20102ms%20%7C%20reality

@@ -1,1 +1,1 @@
-vless://0c4e0fa4-d16e-47a2-8325-39a1a8fb04d8@gfgfdgdfg.apruxdomain.online:443?type=httpupgrade&security=tls&sni=gfgfdgdfg.apruxdomain.online&fp=qq#%5BBE%5D%20%7C%20BEL%20%7C%20168ms%20%7C%20httpupgrade
+vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@189.74.124.83:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=console.surfweb.club#%5BBE%5D%20%7C%20BEL%20%7C%20120ms%20%7C%20tcp
