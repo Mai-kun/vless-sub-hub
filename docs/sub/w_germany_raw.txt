@@ -1,0 +1,2 @@
+vless://eac04622-531b-0007-b85f-3c2ee67565c6@82.202.138.16:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&security=reality&sni=ru-001.zapretu.net&type=tcp#%5BDE%5D%20%7C%20WL%20%7C%20183ms%20%7C%20reality
+vless://eac04622-531b-0007-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru-001.zapretu.net&fp=firefox#%5BDE%5D%20%7C%20WL%20%7C%20186ms%20%7C%20reality

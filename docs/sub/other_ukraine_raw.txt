@@ -1,3 +1,1 @@
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:8443?encryption=none&fp=firefox&security=tls&sni=13.143.174.97&type=tcp#%5BUA%5D%20%7C%20UKR%20%7C%20167ms%20%7C%20tcp
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2087?encryption=none&fp=firefox&security=tls&sni=13.143.174.97&type=tcp#%5BUA%5D%20%7C%20UKR%20%7C%20168ms%20%7C%20tcp
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2053?encryption=none&fp=firefox&host=se.fastmirror-labs.xyz&path=/ws-cdn1-vless&security=tls&sni=13.143.174.97&type=ws#%5BUA%5D%20%7C%20UKR%20%7C%20170ms%20%7C%20ws
+vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@swidenlanzerotte.live:443?security=reality&encryption=none&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=#%5BUA%5D%20%7C%20UKR%20%7C%20167ms%20%7C%20reality
