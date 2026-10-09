@@ -1,1 +1,1 @@
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@217.149.30.73:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=time.nztvpn.com&pbk=p87u9cOh91BaXsKS-HoCoOUXxHcOwkM6ByTWmz_6b2Y&sid=0da7e14db353e7d0&flow=xtls-rprx-vision&fp=chrome#%5BRU%5D%20%7C%20WL%20%7C%20149ms%20%7C%20reality
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@217.149.30.73:8443?type=raw&security=reality&sni=time.nztvpn.com&pbk=p87u9cOh91BaXsKS-HoCoOUXxHcOwkM6ByTWmz_6b2Y&sid=0da7e14db353e7d0&flow=xtls-rprx-vision&fp=chrome#%5BRU%5D%20%7C%20WL%20%7C%20190ms%20%7C%20reality
