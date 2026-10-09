@@ -1,6 +1,1 @@
-vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@tyo-a-02.auuas.com:1891?type=tcp&security=reality&sni=www.npmjs.com&fp=edge&flow=xtls-rprx-vision&pbk=O7lEfntqflgUugTLJmJNv8qw9Qe0tagUlyDwS3yY4Uo&sid=8378f267#%5BJP%5D%20%7C%20JAP%20%7C%20127ms%20%7C%20reality
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%5BJP%5D%20%7C%20JAP%20%7C%2018ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.185:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#%5BJP%5D%20%7C%20JAP%20%7C%2018ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%5BJP%5D%20%7C%20JAP%20%7C%2018ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.169.13:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#%5BJP%5D%20%7C%20JAP%20%7C%2023ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%5BJP%5D%20%7C%20JAP%20%7C%2025ms%20%7C%20ws
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.247.132.42:41563?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&security=reality&sid=25c79e5856c7&sni=iosapps.itunes.apple.com&type=tcp#%5BJP%5D%20%7C%20JAP%20%7C%20340ms%20%7C%20reality
