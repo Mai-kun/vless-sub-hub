@@ -1,1 +1,1 @@
-vless://2cf94f4d-9d5b-49ca-81a3-ddc0529a2dac@172.66.47.123:443?security=tls&sni=web-tomcat.pages.dev&type=ws&host=web-tomcat.pages.dev&path=%2F&fp=chrome#%5BCA%5D%20%7C%20CAN%20%7C%2025ms%20%7C%20ws
+vless://2cf94f4d-9d5b-49ca-81a3-ddc0529a2dac@172.66.44.133:443?encryption=none&security=tls&sni=web-tomcat.pages.dev&fp=chrome&type=ws&host=web-tomcat.pages.dev&path=%2F#%5BCA%5D%20%7C%20CAN%20%7C%2020ms%20%7C%20ws

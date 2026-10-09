@@ -1,1 +1,1 @@
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@94.183.152.6:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=xn--80aksgi6f.xn----ctbzfboapgel4j.xn--p1ai&fp=firefox&alpn=http/1.1%2Ch2#%5BTR%5D%20%7C%20TUR%20%7C%20121ms%20%7C%20tcp
+vless://e81e1114-99b5-4fea-aafc-84426e845a14@docs.n9ne.com.tr:8444?security=reality&encryption=none&pbk=DhMAmplGrCBD7hwyDu7u2unWxsxMpZVKk_d7e3OZCWE&host=n9ne.com.tr&headerType=none&fp=chrome&type=tcp&sni=n9ne.com.tr&sid=15f380e8388ee5a0#%5BTR%5D%20%7C%20TUR%20%7C%20190ms%20%7C%20reality
