@@ -1,1 +1,2 @@
-vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?type=grpc&security=reality&fp=chrome&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&mode=gun&serviceName=TunService#%5BUA%5D%20%7C%20UKR%20%7C%20155ms%20%7C%20reality
+vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?type=grpc&security=reality&fp=chrome&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&mode=gun&serviceName=TunService#%5BUA%5D%20%7C%20UKR%20%7C%20152ms%20%7C%20reality
+vless://f7f48934-f14c-4819-b225-36e89bda5491@lv-bridge.shadowshroom.org:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv-bridge.shadowshroom.org&fp=random&pbk=5JnZHD1YD9Ibt9hPzp-ogzMRVWvYxthhcEqRK8btrDU&type=tcp#%5BUA%5D%20%7C%20UKR%20%7C%20164ms%20%7C%20reality

@@ -1,1 +1,1 @@
-vless://ab9929fd-ab22-48e3-8723-480733c0eca9@85.209.158.187:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=isr.vpnskyline.com&fp=safari&pbk=4aN0Mr6AENm6-K7mokUioB8xe99zKP4UDHnzHtWEvBU&sid=eb1a94ed&spx=%2FiZpmebIafVRqIdY&allowInsecure=1#%5BIS%5D%20%7C%20ISR%20%7C%20137ms%20%7C%20reality
+vless://8dd0830f-18a7-4bfa-813d-44223c51c8b4@85.209.157.178:995?type=httpupgrade&security=tls&fp=random&sni=hopp-transit.1cooldns.com&path=/api/v1&host=hopp-transit.1cooldns.com#%5BIS%5D%20%7C%20ISR%20%7C%20174ms%20%7C%20httpupgrade

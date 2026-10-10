@@ -1,1 +1,1 @@
-vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@199.189.254.16:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=panel.surfweb.club#%5BKA%5D%20%7C%20KAZ%20%7C%20173ms%20%7C%20tcp
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@5.252.33.175:9882?type=grpc&security=reality&fp=random&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&sni=dl.google.com&serviceName=grpc-tunnel#%5BKA%5D%20%7C%20KAZ%20%7C%201146ms%20%7C%20reality

@@ -1,1 +1,1 @@
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443?&security=reality&flow=xtls-rprx-vision&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&sid=87709fed663228e5&fp=edge&sni=d3-ro.cloud-cdn.xyz&type=tcp&headerType=none&host=d3-ro.cloud-cdn.xyz&path=%2F#%5BRO%5D%20%7C%20ROM%20%7C%20116ms%20%7C%20reality
+vless://affb1e92-db55-4929-81e4-2e7e327b909b@5.254.49.34:995?type=httpupgrade&security=tls&fp=random&sni=prague.yyuyy.com&path=/api/v1&host=prague.yyuyy.com#%5BRO%5D%20%7C%20ROM%20%7C%20153ms%20%7C%20httpupgrade

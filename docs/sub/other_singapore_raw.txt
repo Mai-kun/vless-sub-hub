@@ -1,2 +1,1 @@
-vless://f0e2feb9-cbe0-49fc-a148-8ec97cb0f948@20.212.105.115:41202?security=reality&flow=xtls-rprx-vision&pbk=Qy3mbHGSK-cWrJ_Dsaj-R8ydGtWo4lr3EtAvrEWv3mo&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=%2F&fp=chrome#%5BSG%5D%20%7C%20SIN%20%7C%20208ms%20%7C%20reality
-vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=chrome#%5BSG%5D%20%7C%20SIN%20%7C%20289ms%20%7C%20reality
+vless://aec8e5e3-bb81-4b22-8802-0b88c54997b3@sh.polymarket.party:8447?encryption=none&security=tls&type=tcp&sni=48.maoming.org&fp=chrome#%5BSG%5D%20%7C%20SIN%20%7C%20135ms%20%7C%20tcp
