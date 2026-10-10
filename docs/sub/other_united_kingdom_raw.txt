@@ -1,2 +1,1 @@
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?encryption=none&security=reality&sni=www.forvo.com&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&type=tcp&fp=chrome#%5BGB%5D%20%7C%20UNI%20%7C%20126ms%20%7C%20reality
-vless://75b517db-1f97-4bda-a479-863d988c31a0@5.1.40.4:2083?encryption=none&security=tls&sni=speedtestmark.com&alpn=http%2F1.1&type=ws&path=%2Fvless-ws&fp=qq#%5BGB%5D%20%7C%20UNI%20%7C%20140ms%20%7C%20ws
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?encryption=none&security=reality&sni=www.forvo.com&fp=random&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&type=tcp#%5BGB%5D%20%7C%20UNI%20%7C%20166ms%20%7C%20reality
