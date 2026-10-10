@@ -1,1 +1,1 @@
-vless://3fcec4e4-a674-44d2-8cae-c253cec43b9c@ns.l90909l.vip:2096?encryption=none&security=reality&sni=id.vk.com&fp=random&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&mode=gun#%5BCH%5D%20%7C%20SWI%20%7C%20173ms%20%7C%20reality
+vless://3fcec4e4-a674-44d2-8cae-c253cec43b9c@153.76.161.59:2096?encryption=none&fp=random&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%5BCH%5D%20%7C%20SWI%20%7C%20165ms%20%7C%20reality
