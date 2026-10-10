@@ -1,1 +1,1 @@
-vless://2cf94f4d-9d5b-49ca-81a3-ddc0529a2dac@172.66.44.133:443?encryption=none&security=tls&sni=web-tomcat.pages.dev&fp=chrome&type=ws&host=web-tomcat.pages.dev&path=%2F#%5BCA%5D%20%7C%20CAN%20%7C%2020ms%20%7C%20ws
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2120?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=&spx=%2Fb0801adb7de08fd&type=tcp&sni=www.apple.com&sid=ddaaf1630788aeac&fp=chrome#%5BCA%5D%20%7C%20CAN%20%7C%20207ms%20%7C%20reality
