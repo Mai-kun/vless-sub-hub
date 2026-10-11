@@ -1,1 +1,2 @@
-vless://c6db98c5-9959-425e-9340-300779fc4e4b@205.237.105.31:11443?encryption=none&type=ws&security=tls&sni=f4.vimeostream.online&fp=firefox&alpn=http/1.1&path=/api/v2/stream/ws&host=f4.vimeostream.online#%5BFR%5D%20%7C%20FRA%20%7C%2079ms%20%7C%20ws
+vless://6d5c8390-69fb-4bcf-a2f9-d7f850aaf2cc@195.177.94.131:443?type=grpc&security=reality&pbk=54D9VU01h1iNtBP1XVSrQJr_7Cabjg8VC692kjT_VEg&sni=optim.tildacdn.pub&serviceName=ebl&fp=android#%5BFR%5D%20%7C%20FRA%20%7C%20136ms%20%7C%20reality
+vless://c6db98c5-9959-425e-9340-300779fc4e4b@205.237.105.31:11443?encryption=none&type=ws&security=tls&sni=f4.vimeostream.online&alpn=http%2F1.1&path=%2Fapi%2Fv2%2Fstream%2Fws&host=f4.vimeostream.online&fp=android#%5BFR%5D%20%7C%20FRA%20%7C%20127ms%20%7C%20ws
