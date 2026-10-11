@@ -1,1 +1,1 @@
-vless://c6db98c5-9959-425e-9340-300779fc4e4b@205.237.105.31:11443?encryption=none&type=ws&security=tls&sni=f4.vimeostream.online&fp=firefox&alpn=http/1.1&path=/api/v2/stream/ws&host=f4.vimeostream.online#%5BFR%5D%20%7C%20FRA%20%7C%20140ms%20%7C%20ws
+vless://c6db98c5-9959-425e-9340-300779fc4e4b@205.237.105.31:11443?encryption=none&type=ws&security=tls&sni=f4.vimeostream.online&fp=firefox&alpn=http/1.1&path=/api/v2/stream/ws&host=f4.vimeostream.online#%5BFR%5D%20%7C%20FRA%20%7C%2079ms%20%7C%20ws
