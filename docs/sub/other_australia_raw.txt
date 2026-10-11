@@ -1,1 +1,1 @@
-vless://f7f48934-f14c-4819-b225-36e89bda5491@lv-bridge.shadowshroom.org:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv-bridge.shadowshroom.org&fp=random&pbk=o19q9ZfdCq7w_jJZ4EJsOCTo03qv4s5jCncFOx7WLig&type=tcp#%5BAU%5D%20%7C%20AUS%20%7C%20160ms%20%7C%20reality
+vless://8afeb33c-b686-43e9-a629-0d98f991ec28@144.172.65.72:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=f25sygANXTpzdc9YPCwkggwSmm3piA3BluSeHdfG-hg&sni=www.tradingview.com#%5BAU%5D%20%7C%20AUS%20%7C%20137ms%20%7C%20reality
