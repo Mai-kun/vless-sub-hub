@@ -1,2 +1,1 @@
-vless://90f4ce39-d570-4a0b-a414-4de79f74c73d@212.127.78.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ChkUiebRIBARnTszXt44wp3v2t0S2IW2qSQDt9mV3Xc&security=reality&sid=3315575389f6cd9f&sni=dropbox.com&type=tcp#%5BPL%5D%20%7C%20POLAND%20%7C%20112ms%20%7C%20reality
-vless://60e3be27-1dcf-4174-830d-a561a2b59ef7@103.246.248.240:995?&security=tls&fp=firefox&sni=grape-poland.bumbleshrimp.com&type=ws&headerType=none&host=grape-poland.bumbleshrimp.com&path=%2Fapi%2Fv1#%5BUN%5D%20%7C%20POLAND%20%7C%20118ms%20%7C%20ws
+vless://60e3be27-1dcf-4174-830d-a561a2b59ef7@103.246.248.240:995?&security=tls&fp=firefox&sni=grape-poland.bumbleshrimp.com&type=ws&headerType=none&host=grape-poland.bumbleshrimp.com&path=%2Fapi%2Fv1#%5BPL%5D%20%7C%20POLAND%20%7C%20170ms%20%7C%20ws
