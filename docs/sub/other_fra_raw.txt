@@ -1,1 +1,1 @@
-vless://7b859f9e-0e6a-475f-b5e3-5d671b043164@87.242.94.237:8443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=lada.locallynet.org&type=tcp&headerType=none&path=%2F#%5BFR%5D%20%7C%20FRA%20%7C%20165ms%20%7C%20tcp
+vless://7b859f9e-0e6a-475f-b5e3-5d671b043164@87.242.94.237:8443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=lada.locallynet.org&type=tcp&headerType=none&path=%2F#%5BFR%5D%20%7C%20FRA%20%7C%20160ms%20%7C%20tcp
