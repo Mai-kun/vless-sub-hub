@@ -1,1 +1,4 @@
-vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@maple.hubnori.ink:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=maple.hubnori.ink&fp=firefox&pbk=IBbBWAFM5_ZvoudwNh_09i461W0SLjLxHeRo1TMWMHY&sid=d574a560c675152e#%5BNL%5D%20%7C%20WL%20%7C%20137ms%20%7C%20reality
+vless://4d63b928-5068-4f6d-918c-c6fa95d936c5@api.mediasklon.cc:443?encryption=none&security=tls&sni=api.mediasklon.cc&fp=random&type=grpc&serviceName=3e99d50d5740985d#%5BNL%5D%20%7C%20WL%20%7C%20112ms%20%7C%20grpc
+vless://4d63b928-5068-4f6d-918c-c6fa95d936c5@189.74.114.107:443?encryption=none&security=tls&sni=api.mediasklon.cc&fp=random&type=grpc&serviceName=3e99d50d5740985d#%5BNL%5D%20%7C%20WL%20%7C%20116ms%20%7C%20grpc
+vless://4d63b928-5068-4f6d-918c-c6fa95d936c5@189.74.114.131:443?encryption=none&security=tls&sni=api.mediasklon.cc&fp=random&type=grpc&serviceName=3e99d50d5740985d#%5BNL%5D%20%7C%20WL%20%7C%20118ms%20%7C%20grpc
+vless://39fabd4a-1e07-497b-b47a-126f03e752ee@193.233.220.194:443?encryption=none&security=tls&sni=spb.ai-boost.tech&fp=random&type=ws&path=%2FbKGK1ZI0PzpQz3OeEeq1&host=spb.ai-boost.tech#%5BNL%5D%20%7C%20WL%20%7C%20136ms%20%7C%20ws
