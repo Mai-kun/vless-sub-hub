@@ -1,4 +1,2 @@
-vless://4d63b928-5068-4f6d-918c-c6fa95d936c5@api.mediasklon.cc:443?encryption=none&security=tls&sni=api.mediasklon.cc&fp=random&type=grpc&serviceName=3e99d50d5740985d#%5BNL%5D%20%7C%20WL%20%7C%20112ms%20%7C%20grpc
-vless://4d63b928-5068-4f6d-918c-c6fa95d936c5@189.74.114.107:443?encryption=none&security=tls&sni=api.mediasklon.cc&fp=random&type=grpc&serviceName=3e99d50d5740985d#%5BNL%5D%20%7C%20WL%20%7C%20116ms%20%7C%20grpc
-vless://4d63b928-5068-4f6d-918c-c6fa95d936c5@189.74.114.131:443?encryption=none&security=tls&sni=api.mediasklon.cc&fp=random&type=grpc&serviceName=3e99d50d5740985d#%5BNL%5D%20%7C%20WL%20%7C%20118ms%20%7C%20grpc
-vless://39fabd4a-1e07-497b-b47a-126f03e752ee@193.233.220.194:443?encryption=none&security=tls&sni=spb.ai-boost.tech&fp=random&type=ws&path=%2FbKGK1ZI0PzpQz3OeEeq1&host=spb.ai-boost.tech#%5BNL%5D%20%7C%20WL%20%7C%20136ms%20%7C%20ws
+vless://35cb6ef3-ebb3-4977-9690-38fa5c06fa61@api.mediaplav.cc:443?encryption=none&type=grpc&serviceName=3e99d50d5740985d&mode=gun&authority=api.mediaplav.cc&security=tls&sni=api.mediaplav.cc&alpn=h2&fp=android#%5BNL%5D%20%7C%20WL%20%7C%2096ms%20%7C%20grpc
+vless://a72b971f-2163-48d4-b3a3-6173cee58586@185.86.145.183:443?alpn=http%2F1.1&encryption=none&host=formatno.com&path=%2Fnl7ws&security=tls&sni=formatno.com&type=ws&fp=edge#%5BNL%5D%20%7C%20WL%20%7C%20147ms%20%7C%20ws
