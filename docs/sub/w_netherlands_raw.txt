@@ -1,2 +1,1 @@
-vless://35cb6ef3-ebb3-4977-9690-38fa5c06fa61@api.mediaplav.cc:443?encryption=none&type=grpc&serviceName=3e99d50d5740985d&mode=gun&authority=api.mediaplav.cc&security=tls&sni=api.mediaplav.cc&alpn=h2&fp=android#%5BNL%5D%20%7C%20WL%20%7C%2096ms%20%7C%20grpc
-vless://a72b971f-2163-48d4-b3a3-6173cee58586@185.86.145.183:443?alpn=http%2F1.1&encryption=none&host=formatno.com&path=%2Fnl7ws&security=tls&sni=formatno.com&type=ws&fp=edge#%5BNL%5D%20%7C%20WL%20%7C%20147ms%20%7C%20ws
+vless://41e168be-83a9-00c8-aee1-dd63221e59ca@x.nodes.wagvpn.club:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=software-download.microsoft.com&pbk=nxpNUSJfuaGYqy0U5BQJKlZDOU3Aru6cixtMDNqH-hQ&type=tcp&fp=ios#%5BNL%5D%20%7C%20WL%20%7C%20142ms%20%7C%20reality

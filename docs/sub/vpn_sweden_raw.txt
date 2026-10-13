@@ -1,2 +1,2 @@
-vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@138.124.96.88:41826?sni=sweden.homyak.app&type=ws&path=/fp=random&security=tls#%5BUN%5D%20%7C%20SWEDEN%20%7C%20121ms%20%7C%20ws
-vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@lte.homyak.app:41826?&security=tls&fp=chrome&sni=sweden.homyak.app&type=ws&headerType=none&host=lte.homyak.app&path=%2F#%5BUN%5D%20%7C%20SWEDEN%20%7C%20130ms%20%7C%20ws
+vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@138.124.96.88:41826?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0&sni=sweden.homyak.app#%5BUN%5D%20%7C%20SWEDEN%20%7C%20167ms%20%7C%20httpupgrade
+vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@lte.homyak.app:41826?encryption=none&security=tls&sni=sweden.homyak.app&type=httpupgrade&path=%2F#%5BUN%5D%20%7C%20SWEDEN%20%7C%20171ms%20%7C%20httpupgrade
