@@ -1,1 +1,2 @@
-vless://41e168be-83a9-0064-aee1-dd63221e59ca@x.nodes.wagvpn.club:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=software-download.microsoft.com&pbk=nxpNUSJfuaGYqy0U5BQJKlZDOU3Aru6cixtMDNqH-hQ&type=tcp&fp=android#%5BDE%5D%20%7C%20WL%20%7C%20145ms%20%7C%20reality
+vless://7832b450-d561-45d6-b425-8527fa8babe0@n2.185-86-145-142.sslip.io:443?encryption=none&security=tls&sni=n2.185-86-145-142.sslip.io&alpn=http%2F1.1&fp=random&type=ws&path=%2Fe7ws&host=n2.185-86-145-142.sslip.io#%5BDE%5D%20%7C%20WL%20%7C%20177ms%20%7C%20ws
+vless://7832b450-d561-45d6-b425-8527fa8babe0@185.86.145.142:443?encryption=none&fp=firefox&host=n2.185-86-145-142.sslip.io&path=/e7ws&security=tls&sni=n2.185-86-145-142.sslip.io&type=ws#%5BDE%5D%20%7C%20WL%20%7C%20180ms%20%7C%20ws
