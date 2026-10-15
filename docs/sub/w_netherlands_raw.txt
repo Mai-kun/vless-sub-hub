@@ -1,2 +1,1 @@
-vless://bcf7fc76-83ad-419c-91c9-d192797ce7a4@api.wyre-file.ru:443?encryption=none&security=tls&sni=api.wyre-file.ru&type=ws&path=%2Fnl7ws&host=api.wyre-file.ru&fp=android#%5BNL%5D%20%7C%20WL%20%7C%20174ms%20%7C%20ws
-vless://bcf7fc76-83ad-419c-91c9-d192797ce7a4@185.86.145.183:443?encryption=none&host=api.wyre-file.ru&path=%2Fnl7ws&security=tls&sni=api.wyre-file.ru&type=ws&fp=android#%5BNL%5D%20%7C%20WL%20%7C%20177ms%20%7C%20ws
+vless://090da6a8-69f7-4b49-8af9-a8f8bfb07f17@app-ms-72.next-gen-shopping.com:443?security=reality&encryption=none&pbk=yuWkqVdfhtZTbQbgOWXfvukhdwCe2vVy7-GWxVfirnQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=assets-ms-72.next-gen-shopping.com&sid=6f24fe57975cc9b6&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20152ms%20%7C%20reality
