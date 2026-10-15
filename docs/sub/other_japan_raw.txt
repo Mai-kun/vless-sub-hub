@@ -1,5 +1,1 @@
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.34.106:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#%5BJP%5D%20%7C%20JAP%20%7C%208ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%5BJP%5D%20%7C%20JAP%20%7C%209ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=&host=jp3.yohototo.top&path=%2Ftyxyws#%5BJP%5D%20%7C%20JAP%20%7C%2013ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%5BJP%5D%20%7C%20JAP%20%7C%2014ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%5BJP%5D%20%7C%20JAP%20%7C%2014ms%20%7C%20ws
+vless://7c172892-d233-4f58-8345-3a6f8dc83834@147.78.245.85:443?flow=xtls-rprx-vision&fp=chrome&pbk=YNuLTkque_lJzdyWxfkrledbuEXg6zy_1-Jx8HmT9GA&security=reality&sid=66ff02c8f5ff0b52&sni=www.microsoft.com&type=tcp&encryption=none#%5BJP%5D%20%7C%20JAP%20%7C%20121ms%20%7C%20reality

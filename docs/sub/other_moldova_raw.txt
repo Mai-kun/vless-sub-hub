@@ -1,3 +1,1 @@
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.198:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=qq#%5BMO%5D%20%7C%20MOL%20%7C%20140ms%20%7C%20ws
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.195:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=edge#%5BMO%5D%20%7C%20MOL%20%7C%20142ms%20%7C%20ws
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.197:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=edge#%5BMO%5D%20%7C%20MOL%20%7C%20148ms%20%7C%20ws
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@md1.aiage.work:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=0dtXhkhkh-_MBFoGwzdW4PdlJtVX9oswhJZHbUPGCmo&sni=md1.aiage.work&fp=firefox&sid=5d7a45ac0ad6adff#%5BMO%5D%20%7C%20MOL%20%7C%20172ms%20%7C%20reality
