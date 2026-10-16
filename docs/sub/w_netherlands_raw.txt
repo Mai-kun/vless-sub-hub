@@ -1,1 +1,1 @@
-vless://525033a1-1dca-4c0c-91ad-d801af6ed18f@fru01.tunnely.space:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=f03.tunnely.space&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=d1694c220d4b13e7&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20174ms%20%7C%20reality
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.91.55.86:443?encryption=none&security=tls&serviceName=northfeed&sni=ru-auto-02.10media.top&type=grpc&fp=edge#%5BNL%5D%20%7C%20WL%20%7C%20234ms%20%7C%20grpc
