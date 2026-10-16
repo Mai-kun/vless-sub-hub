@@ -1,1 +1,1 @@
-vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#%5BSG%5D%20%7C%20SG%20%7C%201ms%20%7C%20ws
+vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?allowInsecure=0&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%5BSG%5D%20%7C%20SG%20%7C%208ms%20%7C%20ws
