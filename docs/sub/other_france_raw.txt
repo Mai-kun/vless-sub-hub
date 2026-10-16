@@ -1,4 +1,1 @@
-vless://XpnTeam-12@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=chrome#%5BFR%5D%20%7C%20FRA%20%7C%204ms%20%7C%20ws
-vless://XpnTeam-11@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=qq#%5BFR%5D%20%7C%20FRA%20%7C%205ms%20%7C%20ws
-vless://XpnTeam-11@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=chrome#%5BFR%5D%20%7C%20FRA%20%7C%205ms%20%7C%20ws
-vless://XpnTeam-12@199.232.78.160:443?security=tls&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F&fp=qq#%5BFR%5D%20%7C%20FRA%20%7C%205ms%20%7C%20ws
+vless://XpnTeam-13@199.232.78.160:443?security=tls&type=ws&path=%2F&host=Appxdn.global.ssl.fastly.net&packetEncoding=xudp&alpn=http%2F1.1&sni=ssl.fastly.com&encryption=none&fp=chrome#%5BFR%5D%20%7C%20FRA%20%7C%202ms%20%7C%20ws

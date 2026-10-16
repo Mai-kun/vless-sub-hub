@@ -1,2 +1,2 @@
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.91.55.86:443?encryption=none&security=tls&serviceName=northfeed&sni=ru-auto-02.10media.top&type=grpc&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20237ms%20%7C%20grpc
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@ru-auto-02.10media.top:443?encryption=none&insecure=0&security=tls&serviceName=northfeed&sni=ru-auto-02.10media.top&type=grpc&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%201264ms%20%7C%20grpc
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@ru-auto-02.10media.top:443?encryption=none&insecure=0&security=tls&serviceName=northfeed&sni=ru-auto-02.10media.top&type=grpc&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20171ms%20%7C%20grpc
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.91.55.86:443?encryption=none&security=tls&serviceName=northfeed&sni=ru-auto-02.10media.top&type=grpc&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20171ms%20%7C%20grpc
