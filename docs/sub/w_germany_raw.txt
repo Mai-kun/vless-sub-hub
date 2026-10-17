@@ -1,0 +1,2 @@
+vless://9b07c977-08f8-4f4c-b0dd-298a59dd073f@zeta.sockapi.rest:443?security=tls&sni=zeta.sockapi.rest&alpn=http%2F1.1&type=ws&path=%2Fupgrade%2Fv2&host=zeta.sockapi.rest&fp=android#%5BDE%5D%20%7C%20WL%20%7C%20270ms%20%7C%20ws
+vless://9b07c977-08f8-4f4c-b0dd-298a59dd073f@79.174.92.233:443?encryption=none&host=zeta.sockapi.rest&path=%2Fupgrade%2Fv2&security=tls&sni=zeta.sockapi.rest&type=ws&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20282ms%20%7C%20ws
