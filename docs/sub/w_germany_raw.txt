@@ -1,2 +1,1 @@
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.setevoymayak.cc:443?type=tcp&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoymayak.cc&encryption=none&fp=android#%5BDE%5D%20%7C%20WL%20%7C%20145ms%20%7C%20reality
-vless://4f28f42e-a39e-4d30-a84a-aa14dcd2faee@ru.bridge.ezhikvpn.xyz:8001?encryption=none&security=tls&sni=k8q3m7v2.ahegao.top&type=grpc&serviceName=cdn-service&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20169ms%20%7C%20grpc
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.setevoymayak.cc:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoymayak.cc&type=tcp&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20145ms%20%7C%20reality
