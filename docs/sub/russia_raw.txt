@@ -1,0 +1,1 @@
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@ru8.my-cdn.org:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&serviceName=x5.lk.v1.AccountService&sni=ru8.my-cdn.org&fp=android#%5BRU%5D%20%7C%20WL%20%7C%20143ms%20%7C%20grpc
