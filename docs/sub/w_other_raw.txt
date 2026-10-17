@@ -1,1 +1,2 @@
-vless://dd045fba-0257-4643-be29-4325450ef186@entry6.chick-chirik.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.oracle.com&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&sid=89e0494514ec&allowInsecure=1&fp=android#%5BTR%5D%20%7C%20WL%20%7C%20275ms%20%7C%20reality
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediavolna.cc:443?alpn=h2&encryption=none&insecure=0&mode=gun&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc&fp=chrome#%5BCZ%5D%20%7C%20WL%20%7C%20113ms%20%7C%20grpc
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@121.127.37.211:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=chrome#%5BSG%5D%20%7C%20WL%20%7C%20148ms%20%7C%20ws

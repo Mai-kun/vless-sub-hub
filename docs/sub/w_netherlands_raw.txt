@@ -1,0 +1,2 @@
+vless://7285eb6f-6fef-4f15-9e74-da442d0f826a@46.182.24.240:443?encryption=none&pbk=Ed29G1bO6isJRo8iGPm7W_9c4mVFqHUilPmDP0llJW8&security=reality&serviceName=grpc-32d2699be001e4f1&sni=max.ru&type=grpc&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20185ms%20%7C%20reality
+vless://7b41c123-f351-4c2b-a8c6-3f178c0e4a25@api.mediaplotina.cc:443?encryption=none&type=grpc&mode=gun&serviceName=3e99d50d5740985d&security=tls&sni=api.mediaplotina.cc&alpn=h2&fp=qq#%5BNL%5D%20%7C%20WL%20%7C%2094ms%20%7C%20grpc
