@@ -1,1 +1,2 @@
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@165.231.170.18:8443?flow=xtls-rprx-vision&security=tls&sni=api-6ad3c751.adhil.uk&type=raw&fp=chrome#%5BEE%5D%20%7C%20BALTICS%20%7C%20159ms%20%7C%20raw
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@one.alpheratzz.org:8443?type=raw&security=tls&flow=xtls-rprx-vision&sni=api-6ad3c751.adhil.uk&fp=firefox#%5BEE%5D%20%7C%20BALTICS%20%7C%20158ms%20%7C%20raw
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@one.alpheratzz.org:8443?alpn=h2&flow=xtls-rprx-vision&path=%2F&security=tls&sni=api-6ad3c751.adhil.uk&type=tcp&fp=chrome#%5BEE%5D%20%7C%20BALTICS%20%7C%20159ms%20%7C%20tcp
