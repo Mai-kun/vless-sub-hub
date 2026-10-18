@@ -1,1 +1,2 @@
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?path=%2Fstream%2Fv1%2Fsession%2Fmedia&security=tls&alpn=http%2F1.1&encryption=none&type=ws&sni=gpt.prem-ai.shop&fp=android#%5BDE%5D%20%7C%20WL%20%7C%20106ms%20%7C%20ws
+vless://4f28f42e-a39e-4d30-a84a-aa14dcd2faee@ru.bridge.ezhikvpn.xyz:8001?encryption=none&security=tls&sni=k8q3m7v2.ahegao.top&type=grpc&serviceName=cdn-service&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20129ms%20%7C%20grpc
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?path=%2Fstream%2Fv1%2Fsession%2Fmedia&security=tls&alpn=http%2F1.1&encryption=none&type=ws&sni=gpt.prem-ai.shop&fp=edge#%5BDE%5D%20%7C%20WL%20%7C%2081ms%20%7C%20ws
