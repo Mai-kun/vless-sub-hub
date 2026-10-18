@@ -1,2 +1,2 @@
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@94.228.175.199:443?encryption=none&security=tls&serviceName=studiofeed&sni=kilnledger.10media.top&type=grpc&fp=android#%5BDE%5D%20%7C%20WL%20%7C%20159ms%20%7C%20grpc
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@kilnledger.10media.top:443?encryption=none&type=grpc&security=tls&sni=kilnledger.10media.top&serviceName=studiofeed&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20165ms%20%7C%20grpc
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@94.228.175.199:443?encryption=none&security=tls&serviceName=studiofeed&sni=kilnledger.10media.top&type=grpc&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20211ms%20%7C%20grpc
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@kilnledger.10media.top:443?encryption=none&type=grpc&security=tls&sni=kilnledger.10media.top&serviceName=studiofeed&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20232ms%20%7C%20grpc

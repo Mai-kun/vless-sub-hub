@@ -1,1 +1,1 @@
-vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@168.113.135.90:443?encryption=none&flow=xtls-rprx-vision&pbk=ZtAlhN1pU4MTmv4KaX9J_5_8KWnwy9IOnc-BLzIf234&security=reality&sid=11ac376e18d20343&sni=m-vruvc.mvpstr.com&type=tcp&fp=firefox#%5BGB%5D%20%7C%20UNI%20%7C%20155ms%20%7C%20reality
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8444?security=tls&sni=ru1.radiolumens.uk&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=beru-uk#%5BGB%5D%20%7C%20UNI%20%7C%20208ms%20%7C%20grpc
