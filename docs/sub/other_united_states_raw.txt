@@ -1,1 +1,1 @@
-vless://911f864b-a901-4589-8139-e7e9631dadc4@104.36.71.38:443?&security=reality&flow=xtls-rprx-vision&pbk=Uz2xnYyvHKZfpqdnn9B12BavnRCU6Pxem36vd34ajTE&sid=c7129d3a&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%5BUS%5D%20%7C%20UNI%20%7C%2033ms%20%7C%20reality
+vless://911f864b-a901-4589-8139-e7e9631dadc4@104.36.71.38:443?flow=xtls-rprx-vision&pbk=Uz2xnYyvHKZfpqdnn9B12BavnRCU6Pxem36vd34ajTE&security=reality&sid=c7129d3a&sni=www.apple.com&type=tcp&fp=firefox#%5BUS%5D%20%7C%20UNI%20%7C%2041ms%20%7C%20reality
