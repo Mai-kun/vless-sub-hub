@@ -1,2 +1,0 @@
-vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@cluster1.s3.infitycloudswagovo.best:443?security=tls&sni=cluster1.s3.infitycloudswagovo.best&type=ws&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=cluster1.s3.infitycloudswagovo.best&fp=chrome#%5BSE%5D%20%7C%20WL%20%7C%20205ms%20%7C%20ws
-vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@45.10.246.169:443?encryption=none&host=cluster1.s3.infitycloudswagovo.best&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&security=tls&sni=cluster1.s3.infitycloudswagovo.best&type=ws&fp=firefox#%5BSE%5D%20%7C%20WL%20%7C%20205ms%20%7C%20ws
