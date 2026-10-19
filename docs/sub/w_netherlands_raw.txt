@@ -1,1 +1,1 @@
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.91.55.86:443?alpn=h2&encryption=none&security=tls&serviceName=northfeed&sni=stillroom.10media.top&type=grpc&fp=edge#%5BNL%5D%20%7C%20WL%20%7C%20193ms%20%7C%20grpc
+vless://f33bee08-ce95-4dbd-bc13-b7f838222d54@api.mediaplotina.cc:443?encryption=none&type=grpc&mode=gun&serviceName=3e99d50d5740985d&security=tls&sni=api.mediaplotina.cc&alpn=h2&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20142ms%20%7C%20grpc
