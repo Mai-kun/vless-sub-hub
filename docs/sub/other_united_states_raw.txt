@@ -1,1 +1,1 @@
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@201.58.182.179:8443?encryption=none&pbk=XHTvcJ8PdP6Wwk6fQa5QUABpLX_NzEYfgoIwaSrjxxk&security=reality&sid=458f336bc2&sni=npdev.uk&type=tcp&fp=chrome#%5BUS%5D%20%7C%20UNI%20%7C%20116ms%20%7C%20reality
+vless://ad6a20fb-5484-4c59-b745-662afe232270@adheres-scruple.quick-cdn.net:443?security=tls&alpn=http%2F1.1&sni=adheres-scruple.quick-cdn.net&type=ws&headerType=none&host=adheres-scruple.quick-cdn.net&path=%2Fws&fp=chrome#%5BUS%5D%20%7C%20UNI%20%7C%205ms%20%7C%20ws

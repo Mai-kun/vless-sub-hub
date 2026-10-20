@@ -1,1 +1,1 @@
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.219:443?security=tls&type=grpc&mode=gun&serviceName=swedenfeed&packetEncoding=xudp&sni=edge-lab-b.10media.top&fp=firefox#%5BDE%5D%20%7C%20SWEDEN%20%7C%20201ms%20%7C%20grpc
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.219:443?security=tls&type=grpc&mode=gun&serviceName=swedenfeed&packetEncoding=xudp&sni=edge-lab-b.10media.top&fp=firefox#%5BDE%5D%20%7C%20SWEDEN%20%7C%20206ms%20%7C%20grpc
