@@ -1,1 +1,1 @@
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.115.16:443?&security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=firefox&sni=api.mediakaskad.cc&type=tcp&headerType=none&host=api.mediakaskad.cc&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20168ms%20%7C%20reality
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#%5BAU%5D%20%7C%20AUT%20%7C%20124ms%20%7C%20ws

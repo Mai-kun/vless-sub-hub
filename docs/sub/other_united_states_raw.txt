@@ -1,1 +1,2 @@
-vless://ad6a20fb-5484-4c59-b745-662afe232270@adheres-scruple.quick-cdn.net:443?security=tls&alpn=http%2F1.1&sni=adheres-scruple.quick-cdn.net&type=ws&headerType=none&host=adheres-scruple.quick-cdn.net&path=%2Fws&fp=chrome#%5BUS%5D%20%7C%20UNI%20%7C%205ms%20%7C%20ws
+vless://01b3cd91-21d6-494a-8af3-e3093914f5f8@bounded-crammed.video-streams.org:443?alpn=http%2F1.1&host=bounded-crammed.video-streams.org&path=%2Fws&security=tls&sni=bounded-crammed.video-streams.org&type=ws&fp=android#%5BUS%5D%20%7C%20UNI%20%7C%2013ms%20%7C%20ws
+vless://01b3cd91-21d6-494a-8af3-e3093914f5f8@ghosts-spasm.quick-cdn.net:443?alpn=http%2F1.1&host=ghosts-spasm.quick-cdn.net&path=%2Fws&security=tls&sni=ghosts-spasm.quick-cdn.net&type=ws&fp=edge#%5BUS%5D%20%7C%20UNI%20%7C%2021ms%20%7C%20ws
