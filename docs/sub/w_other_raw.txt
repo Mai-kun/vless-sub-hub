@@ -1,2 +1,1 @@
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@194.87.71.141:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&type=ws&path=%2F&host=cf-1rm.pages.dev&fp=android#%5BDE%5D%20%7C%20WL%20%7C%20119ms%20%7C%20ws
-vless://6eca8bc3-c4e1-48d1-bf15-1eb016dd6272@178.176.128.128:443?encryption=none&host=edge3.statiqedge.com&path=%2Fassets%2Fv1&security=tls&sni=edge3.statiqedge.com&type=httpupgrade&fp=edge#%5BSE%5D%20%7C%20WL%20%7C%20156ms%20%7C%20httpupgrade
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=android#%5BUN%5D%20%7C%20WL%20%7C%20243ms%20%7C%20reality
