@@ -1,1 +1,1 @@
-vless://d65fb384-5029-4edf-bdc7-0f5960600e3d@153.76.190.31:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&type=ws&path=%2Fvless-ws&fp=firefox#%5BCZ%5D%20%7C%20CZE%20%7C%20105ms%20%7C%20ws
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@178.208.78.209:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.co.uk&pbk=XjdhbKkou-RV3ZyRrycpH-l0QrlhClkcfaMVlQ-Vtz8&sid=ef&flow=xtls-rprx-vision&fp=firefox#%5BCZ%5D%20%7C%20CZE%20%7C%20162ms%20%7C%20reality

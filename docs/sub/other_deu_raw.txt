@@ -1,4 +1,2 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.11.187.33:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BDE%5D%20%7C%20DEU%20%7C%20110ms%20%7C%20ws
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.26.8.117:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BDE%5D%20%7C%20DEU%20%7C%202ms%20%7C%20ws
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@77.239.104.229:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BDE%5D%20%7C%20DEU%20%7C%2090ms%20%7C%20ws
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.95.0.43:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#%5BDE%5D%20%7C%20DEU%20%7C%201139ms%20%7C%20ws
+vless://8afeb33c-b686-43e9-a629-0d98f991ec28@212.87.222.10:8443?&security=reality&flow=xtls-rprx-vision&pbk=f25sygANXTpzdc9YPCwkggwSmm3piA3BluSeHdfG-hg&fp=safari&sni=www.nokia.com&type=tcp&headerType=none&host=www.nokia.com&path=%2F#%5BDE%5D%20%7C%20DEU%20%7C%20135ms%20%7C%20reality
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.26.8.117:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BDE%5D%20%7C%20DEU%20%7C%206ms%20%7C%20ws
