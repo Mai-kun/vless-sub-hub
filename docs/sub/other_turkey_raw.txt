@@ -1,1 +1,2 @@
-vless://e53b3d8c-2782-456b-97bc-6bc232bdbaa8@177.202.96.106:443?security=reality&encryption=none&pbk=jIq_COD-tIXTvgDn-TslFGtB_a8HVgUOOIlUByv8fkg&headerType=&type=tcp&flow=xtls-rprx-vision&sni=pl2.spidermanshopping.com&sid=8718c58d3d51db59&fp=chrome#%5BTR%5D%20%7C%20TUR%20%7C%20126ms%20%7C%20reality
+vless://5e12bc12-6da2-4a86-bbfe-144419d0e0e3@trcdn3.kinotut.net:443?security=tls&sni=trcdn3.kinotut.net&fp=firefox&type=ws&path=/media/ws/&packetEncoding=xudp&encryption=none#%5BTR%5D%20%7C%20TUR%20%7C%20123ms%20%7C%20ws
+vless://5e12bc12-6da2-4a86-bbfe-144419d0e0e3@stagedelivery.zioio.net:443?security=tls&sni=stagedelivery.zioio.net&fp=firefox&type=ws&path=/media/ws/&packetEncoding=xudp&encryption=none#%5BTR%5D%20%7C%20TUR%20%7C%20125ms%20%7C%20ws
