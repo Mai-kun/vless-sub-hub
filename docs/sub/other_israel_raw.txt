@@ -1,1 +1,1 @@
-vless://8dd0830f-18a7-4bfa-813d-44223c51c8b4@85.209.157.178:995?type=httpupgrade&security=tls&fp=random&sni=hopp-transit.1cooldns.com&path=/api/v1&host=hopp-transit.1cooldns.com#%5BIS%5D%20%7C%20ISR%20%7C%20140ms%20%7C%20httpupgrade
+vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c&fp=chrome#%5BIS%5D%20%7C%20ISR%20%7C%20157ms%20%7C%20reality
