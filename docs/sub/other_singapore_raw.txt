@@ -1,1 +1,1 @@
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?security=tls&type=ws&path=%2Fdula&host=speed.dulacloud.store&packetEncoding=xudp&sni=speed.dulacloud.store&encryption=none&fp=android#%5BSG%5D%20%7C%20SIN%20%7C%203ms%20%7C%20ws
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&host=speed.dulacloud.store&type=ws&sni=speed.dulacloud.store&allowInsecure=0&insecure=0&fp=android#%5BSG%5D%20%7C%20SIN%20%7C%201ms%20%7C%20ws
