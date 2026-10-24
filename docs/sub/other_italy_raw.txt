@@ -1,1 +1,3 @@
-vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@itly.yandex-api.store:8443?encryption=none&type=ws&security=tls&sni=itly.yandex-api.store&alpn=http%2F1.1&path=%2Fassets&fp=chrome#%5BIT%5D%20%7C%20ITA%20%7C%20103ms%20%7C%20ws
+vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@85.137.175.214:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.leaseweb.com&pbk=Et_qbCjAgw1NFNOw_49PLmnBuEYCxCrTwbL57wJRAF8&sid=22be958ca3b798e2&fp=firefox#%5BIT%5D%20%7C%20ITA%20%7C%20169ms%20%7C%20reality
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@itly.yandex-api.store:8443?encryption=none&type=ws&security=tls&sni=itly.yandex-api.store&alpn=http%2F1.1&path=%2Fassets&fp=chrome#%5BIT%5D%20%7C%20ITA%20%7C%20102ms%20%7C%20ws
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@179.255.190.43:8443?encryption=none&fp=firefox&path=%2Fassets&security=tls&sni=itly.yandex-api.store&type=ws#%5BIT%5D%20%7C%20ITA%20%7C%20102ms%20%7C%20ws

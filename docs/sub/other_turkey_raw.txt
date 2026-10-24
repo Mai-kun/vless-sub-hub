@@ -1,1 +1,1 @@
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=android#%5BTR%5D%20%7C%20TUR%20%7C%2088ms%20%7C%20reality
+vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%5BTR%5D%20%7C%20TUR%20%7C%2086ms%20%7C%20reality

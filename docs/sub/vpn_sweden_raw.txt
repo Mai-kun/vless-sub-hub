@@ -1,2 +1,2 @@
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?allowInsecure=0&sni=edge-lab-b.10media.top&type=grpc&serviceName=swedenfeed&security=tls#%5BUN%5D%20%7C%20SWEDEN%20%7C%20127ms%20%7C%20grpc
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.219:443?security=tls&type=grpc&mode=gun&serviceName=swedenfeed&packetEncoding=xudp&sni=edge-lab-b.10media.top&fp=firefox#%5BDE%5D%20%7C%20SWEDEN%20%7C%20132ms%20%7C%20grpc
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?allowInsecure=0&sni=edge-lab-b.10media.top&type=grpc&serviceName=swedenfeed&security=tls#%5BUN%5D%20%7C%20SWEDEN%20%7C%20134ms%20%7C%20grpc
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.219:443?security=tls&type=grpc&mode=gun&serviceName=swedenfeed&packetEncoding=xudp&sni=edge-lab-b.10media.top&fp=firefox#%5BDE%5D%20%7C%20SWEDEN%20%7C%20142ms%20%7C%20grpc
