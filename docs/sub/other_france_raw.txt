@@ -1,2 +1,3 @@
-vless://XpnTeam-41@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=android#%5BFR%5D%20%7C%20FRA%20%7C%201ms%20%7C%20ws
-vless://XpnTeam-41@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=android#%5BFR%5D%20%7C%20FRA%20%7C%201ms%20%7C%20ws
+vless://XpnTeam-42@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=%2F&fp=chrome#%5BFR%5D%20%7C%20FRA%20%7C%205ms%20%7C%20ws
+vless://XpnTeam-41@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=chrome#%5BFR%5D%20%7C%20FRA%20%7C%205ms%20%7C%20ws
+vless://XpnTeam-41@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=android#%5BFR%5D%20%7C%20FRA%20%7C%205ms%20%7C%20ws
