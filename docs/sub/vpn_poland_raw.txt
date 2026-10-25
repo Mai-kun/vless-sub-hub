@@ -1,1 +1,2 @@
-vless://60e3be27-1dcf-4174-830d-a561a2b59ef7@103.246.248.240:995?encryption=none&fp=firefox&host=grape-poland.bumbleshrimp.com&path=%2Fapi%2Fv1&security=tls&sni=grape-poland.bumbleshrimp.com&type=httpupgrade#%5BUN%5D%20%7C%20POLAND%20%7C%20105ms%20%7C%20httpupgrade
+vless://60e3be27-1dcf-4174-830d-a561a2b59ef7@103.246.248.240:995?encryption=none&fp=firefox&host=grape-poland.bumbleshrimp.com&path=%2Fapi%2Fv1&security=tls&sni=grape-poland.bumbleshrimp.com&type=httpupgrade#%5BUN%5D%20%7C%20POLAND%20%7C%20121ms%20%7C%20httpupgrade
+vless://26ee2529-e446-41c2-81e3-cbbce04b8347@polandboijji.global.ssl.fastly.net:443?encryption=none&security=tls&sni=polandboijji.global.ssl.fastly.net&type=ws&host=polandboijji.global.ssl.fastly.net.#%5BUN%5D%20%7C%20POLAND%20%7C%201ms%20%7C%20ws
