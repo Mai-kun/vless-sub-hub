@@ -1,1 +1,1 @@
-vless://846cedee-2a52-0001-a0b9-11850ead6a8b@ee-central.v8x2b.lol:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ee-central.v8x2b.lol&pbk=USSepsAbvP9LpByHLV2xD2H8dq8GAJ6G0fINEqD4PAw&fp=firefox#%5BEE%5D%20%7C%20BALTICS%20%7C%20105ms%20%7C%20reality
+vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@31.59.218.35:443?type=grpc&security=tls&fp=firefox&sni=g-ee1.hat.onl&serviceName=cdn.v2.StreamService#%5BEE%5D%20%7C%20BALTICS%20%7C%20126ms%20%7C%20grpc
