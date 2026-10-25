@@ -1,2 +1,1 @@
-vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org#%5BUS%5D%20%7C%20US%20%7C%205ms%20%7C%20ws
-vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@167.82.64.64:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%5BUS%5D%20%7C%20US%20%7C%205ms%20%7C%20ws
+vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org#%5BUS%5D%20%7C%20US%20%7C%209ms%20%7C%20ws
