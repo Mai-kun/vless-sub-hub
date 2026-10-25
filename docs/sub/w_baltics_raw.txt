@@ -1,1 +1,1 @@
-vless://992a73b7-1aaf-4567-8786-28d560e8376b@193.160.140.140:443?security=reality&flow=xtls-rprx-vision&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&sni=lv.lstu.ru&fp=firefox#%5BLV%5D%20%7C%20WL%20%7C%20154ms%20%7C%20reality
+vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?security=tls&sni=broadcast.liveflow.space&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Flive.stream.v1.Broadcast%2F&host=broadcast.liveflow.space#%5BEE%5D%20%7C%20WL%20%7C%20154ms%20%7C%20ws

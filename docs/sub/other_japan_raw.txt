@@ -1,2 +1,1 @@
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&type=tcp&packetEncoding=xudp&sni=cdn-dynmedia-1.microsoft.com&fp=random&flow=xtls-rprx-vision&sid=6772eb2b7a&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ#%5BJP%5D%20%7C%20JAP%20%7C%20185ms%20%7C%20reality
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?flow=xtls-rprx-vision&fp=firefox&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&security=reality&sid=6772eb2b7a&sni=cdn-dynmedia-1.microsoft.com&type=raw#%5BJP%5D%20%7C%20JAP%20%7C%20186ms%20%7C%20reality
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.34.106:443?fp=firefox&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%5BJP%5D%20%7C%20JAP%20%7C%2010ms%20%7C%20ws
