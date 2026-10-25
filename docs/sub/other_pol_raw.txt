@@ -1,1 +1,1 @@
-vless://605dea9b-b485-45c9-af9b-cc2b0195023c@pl1.mycloud1.org:443?&security=reality&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&fp=firefox&sni=pl1.mycloud1.org&type=tcp&headerType=none&host=pl1.mycloud1.org&path=%2F#%5BPL%5D%20%7C%20POL%20%7C%20113ms%20%7C%20reality
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?&security=tls&fp=firefox&sni=ru1.radiolumens.uk&type=grpc&serviceName=&mode=gun#%5BPL%5D%20%7C%20POL%20%7C%20176ms%20%7C%20grpc
