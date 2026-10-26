@@ -1,1 +1,2 @@
-vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?security=tls&sni=broadcast.liveflow.space&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Flive.stream.v1.Broadcast%2F&host=broadcast.liveflow.space#%5BEE%5D%20%7C%20WL%20%7C%20154ms%20%7C%20ws
+vless://8c8a8681-5444-4e18-a427-54f19eea6a77@45.11.27.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mJkx2aIzeXMsdR38oCpeGX4r5Siq4__nb0I4gk1-wVM&security=reality&sni=litva2.ovhpride.shop&type=raw#%5BLT%5D%20%7C%20WL%20%7C%20184ms%20%7C%20reality
+vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@185.178.208.167:443?encryption=none&fp=firefox&host=dropstyle.lol&path=/service/metrics/51dec2df3071/&security=tls&sni=dropstyle.lol&type=ws#%5BEE%5D%20%7C%20WL%20%7C%20120ms%20%7C%20ws
