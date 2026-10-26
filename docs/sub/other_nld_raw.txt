@@ -1,2 +1,1 @@
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de6.pad-sservice.lat:443?&security=tls&fp=chrome&sni=de6.pad-sservice.lat&type=ws&headerType=none&host=de6.pad-service.com&path=%2FDE6W#%5BNL%5D%20%7C%20NLD%20%7C%2092ms%20%7C%20ws
-vless://27653b37-603c-4c90-b1f5-25c4d23f8932@85.198.83.46:443?&security=tls&fp=chrome&sni=renderer-bridge-1-881.mirra.now&type=grpc&serviceName=&mode=gun#%5BNL%5D%20%7C%20NLD%20%7C%20144ms%20%7C%20grpc
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de6.pad-sservice.lat:443?&security=tls&fp=chrome&sni=de6.pad-sservice.lat&type=ws&headerType=none&host=de6.pad-service.com&path=%2FDE6W#%5BNL%5D%20%7C%20NLD%20%7C%20124ms%20%7C%20ws

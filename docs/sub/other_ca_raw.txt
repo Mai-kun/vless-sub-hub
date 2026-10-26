@@ -1,2 +1,2 @@
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=raw&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769&headertype=none#%5BCA%5D%20%7C%20CA%20%7C%2014ms%20%7C%20reality
-vless://089151c6-276a-4292-b8c3-b65ce1193b49@172.66.213.209:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=testvip1.aattaash.com#%5BCA%5D%20%7C%20CA%20%7C%202ms%20%7C%20ws
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=raw&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769&headertype=none#%5BCA%5D%20%7C%20CA%20%7C%2042ms%20%7C%20reality
+vless://089151c6-276a-4292-b8c3-b65ce1193b49@172.66.213.209:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=testvip1.aattaash.com#%5BCA%5D%20%7C%20CA%20%7C%207ms%20%7C%20ws
