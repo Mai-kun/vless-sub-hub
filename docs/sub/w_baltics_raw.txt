@@ -1,2 +1,1 @@
-vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@dropstyle.lol:443?path=%2Fplayer%2Fmetrics%2F97662863db53%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dropstyle.lol&type=ws&allowInsecure=0&sni=dropstyle.lol&fp=firefox#%5BEE%5D%20%7C%20WL%20%7C%20141ms%20%7C%20ws
-vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@185.178.208.167:443?encryption=none&host=dropstyle.lol&path=%2Fservice%2Fmetrics%2F51dec2df3071%2F&security=tls&sni=dropstyle.lol&type=ws&fp=chrome#%5BEE%5D%20%7C%20WL%20%7C%20145ms%20%7C%20ws
+vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@185.178.208.167:443?encryption=none&host=dropstyle.lol&path=%2Fplayer%2Fmetrics%2F97662863db53%2F&security=tls&sni=dropstyle.lol&type=ws&fp=chrome#%5BEE%5D%20%7C%20WL%20%7C%2091ms%20%7C%20ws

@@ -1,1 +1,2 @@
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@196.247.163.10:443?&security=reality&flow=xtls-rprx-vision&pbk=5984Ah0pkfSVekU5xafQ1trZZN7MyNCJ-3KfCo-O6A4&fp=chrome&sni=britainmh.eosvpn.com&type=tcp&headerType=none&host=britainmh.eosvpn.com&path=%2F#%5BGB%5D%20%7C%20UNI%20%7C%20131ms%20%7C%20reality
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.208.60:2083?alpn=http%2F1.1&encryption=none&path=%2Fvless-ws&security=tls&sni=speedtestmark.com&type=ws&fp=android#%5BGB%5D%20%7C%20UNI%20%7C%2092ms%20%7C%20ws
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.208.140:2083?allowInsecure=0&alpn=http%2F1.1&encryption=none&insecure=0&path=%2Fvless-ws&security=tls&sni=speedtestmark.com&type=ws&fp=android#%5BGB%5D%20%7C%20UNI%20%7C%2093ms%20%7C%20ws
