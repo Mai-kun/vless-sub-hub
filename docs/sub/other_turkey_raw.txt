@@ -1,1 +1,1 @@
-vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@185.98.63.8:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp&fp=firefox#%5BTR%5D%20%7C%20TUR%20%7C%20170ms%20%7C%20reality
+vless://5bb82f6f-e5b1-2bcf-6584-1abc8a3ec21f@122.8.46.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome#%5BTR%5D%20%7C%20TUR%20%7C%20147ms%20%7C%20reality
