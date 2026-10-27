@@ -1,3 +1,2 @@
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl3.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=pl3.pad-sservice.lat&type=ws&headerType=none&host=pl3.pad-service.com&path=%2FPL3W#%5BPL%5D%20%7C%20POL%20%7C%20125ms%20%7C%20ws
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl1.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=pl1.pad-sservice.lat&type=ws&headerType=none&host=pl1.pad-service.com&path=%2FPL1W#%5BPL%5D%20%7C%20POL%20%7C%20130ms%20%7C%20ws
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl2.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=pl2.pad-sservice.lat&type=ws&headerType=none&host=pl2.pad-service.com&path=%2FPL2W#%5BPL%5D%20%7C%20POL%20%7C%20132ms%20%7C%20ws
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl1.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=pl1.pad-sservice.lat&type=ws&headerType=none&host=pl1.pad-service.com&path=%2FPL1W#%5BPL%5D%20%7C%20POL%20%7C%20163ms%20%7C%20ws
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?&security=tls&fp=chrome&sni=2.26.6.1&type=tcp&headerType=none&path=%2F#%5BPL%5D%20%7C%20POL%20%7C%20164ms%20%7C%20tcp

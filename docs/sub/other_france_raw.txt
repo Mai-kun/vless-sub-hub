@@ -1,2 +1,3 @@
-vless://XpnTeam-54@199.232.78.170:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=%2F&fp=chrome#%5BFR%5D%20%7C%20FRA%20%7C%2016ms%20%7C%20ws
-vless://XpnTeam-53@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=chrome#%5BFR%5D%20%7C%20FRA%20%7C%2019ms%20%7C%20ws
+vless://362a0364-2b0f-cd11-9c20-ab9dfbeb8b11@130.49.77.8:8443?mode=gun&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.philips.com#%5BFR%5D%20%7C%20FRA%20%7C%20177ms%20%7C%20reality
+vless://XpnTeam-54@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%5BFR%5D%20%7C%20FRA%20%7C%201ms%20%7C%20ws
+vless://XpnTeam-53@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%5BFR%5D%20%7C%20FRA%20%7C%201ms%20%7C%20ws

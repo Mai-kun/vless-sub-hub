@@ -1,2 +1,1 @@
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au5.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=au5.pad-sservice.lat&type=ws&headerType=none&host=au5.pad-sservice.lat&path=%2FAU5W#%5BAU%5D%20%7C%20AUT%20%7C%20131ms%20%7C%20ws
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=au6.pad-sservice.lat&type=ws&headerType=none&host=au6.pad-sservice.lat&path=%2FAU6W#%5BAU%5D%20%7C%20AUT%20%7C%20136ms%20%7C%20ws
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au5.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=au5.pad-sservice.lat&type=ws&headerType=none&host=au5.pad-sservice.lat&path=%2FAU5W#%5BAU%5D%20%7C%20AUT%20%7C%20157ms%20%7C%20ws
