@@ -1,2 +1,1 @@
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl1.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=pl1.pad-sservice.lat&type=ws&headerType=none&host=pl1.pad-service.com&path=%2FPL1W#%5BPL%5D%20%7C%20POL%20%7C%20163ms%20%7C%20ws
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?&security=tls&fp=chrome&sni=2.26.6.1&type=tcp&headerType=none&path=%2F#%5BPL%5D%20%7C%20POL%20%7C%20164ms%20%7C%20tcp
+vless://3edfab95-a259-45f2-846c-3a1ca12c9b60@150.251.112.44:12443?&security=reality&flow=xtls-rprx-vision&pbk=pmuJt78YwO4hmuVE-d1fxgYRtRho7Cb36CcR9ynt9jQ&sid=886cda2e22e571d1&fp=chrome&sni=94bffb5c3f23.j.cloudfront.hls.ttvnw.net&type=tcp&headerType=none&host=94bffb5c3f23.j.cloudfront.hls.ttvnw.net&path=%2F#%5BPL%5D%20%7C%20POL%20%7C%20166ms%20%7C%20reality
