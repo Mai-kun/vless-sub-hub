@@ -1,4 +1,4 @@
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.189:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=softice.net&type=tcp&headerType=none&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20141ms%20%7C%20tcp
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=softice.net&type=tcp&headerType=none&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20144ms%20%7C%20tcp
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.28:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=at-new-ded.failspace.top&type=tcp&headerType=none&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20158ms%20%7C%20tcp
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ekb.eg&type=tcp&headerType=none&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20158ms%20%7C%20tcp
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=softice.net&type=tcp&headerType=none&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20126ms%20%7C%20tcp
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.189:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=softice.net&type=tcp&headerType=none&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20127ms%20%7C%20tcp
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.28:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=at-new-ded.failspace.top&type=tcp&headerType=none&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20129ms%20%7C%20tcp
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ekb.eg&type=tcp&headerType=none&path=%2F#%5BAU%5D%20%7C%20AUT%20%7C%20131ms%20%7C%20tcp

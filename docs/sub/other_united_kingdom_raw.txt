@@ -1,2 +1,1 @@
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.208.60:2083?alpn=http%2F1.1&encryption=none&path=%2Fvless-ws&security=tls&sni=speedtestmark.com&type=ws&fp=android#%5BGB%5D%20%7C%20UNI%20%7C%2092ms%20%7C%20ws
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.208.140:2083?allowInsecure=0&alpn=http%2F1.1&encryption=none&insecure=0&path=%2Fvless-ws&security=tls&sni=speedtestmark.com&type=ws&fp=android#%5BGB%5D%20%7C%20UNI%20%7C%2093ms%20%7C%20ws
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?alpn=h2%2Chttp%2F1.1&encryption=none&fp=safari&security=tls&serviceName=beru-uk&sni=ru3.radiolumens.uk&type=grpc#%5BGB%5D%20%7C%20UNI%20%7C%20146ms%20%7C%20grpc
