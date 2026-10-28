@@ -1,1 +1,1 @@
-vless://680e92ac-1688-49e0-af96-7327fbc30ce8@51.89.231.124:8443?&security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ozon.ru&type=tcp&headerType=none&host=ozon.ru&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%20105ms%20%7C%20reality
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.171:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=viper-21.moriarty-web.com&type=tcp&headerType=none&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%2082ms%20%7C%20tcp
