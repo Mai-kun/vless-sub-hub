@@ -1,2 +1,1 @@
-vless://f439e4fe-139b-4882-ad8b-a16176d09c88@94.183.195.113:20064?security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=94.183.195.113&fp=firefox#%5BTR%5D%20%7C%20WL%20%7C%20136ms%20%7C%20reality
-vless://a2200b5e-bed4-4d5f-8b05-1daf12f4322d@83.166.251.25:43000?security=reality&encryption=none&pbk=ux8nnKsidZNSIvm54EQf2RdXVawMCwto2DZiUNU1UQg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=2ab73e0b&fp=android#%5BUN%5D%20%7C%20WL%20%7C%20141ms%20%7C%20reality
+vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20128ms%20%7C%20reality
