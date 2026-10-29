@@ -1,1 +1,1 @@
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?encryption=none&type=ws&path=%252Fwsru&host=xsru2.freeddns.org&security=tls&sni=xsru2.freeddns.org&fp=random#%5BRU%5D%20%7C%20RU%20%7C%20181ms%20%7C%20ws
+vless://b4a1200a-9765-4649-94f2-c26e0a37dffb@193.160.141.138:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%5BRU%5D%20%7C%20RU%20%7C%20122ms%20%7C%20reality
