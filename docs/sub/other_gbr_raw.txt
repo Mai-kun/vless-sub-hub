@@ -1,4 +1,4 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.227.251:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2&sni=uk-dedic-new-1.failspace.top&type=tcp&headerType=none&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%20143ms%20%7C%20tcp
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.172:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=viper-21.moriarty-web.com&type=tcp&headerType=none&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%20143ms%20%7C%20tcp
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.173:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=viper-21.moriarty-web.com&type=tcp&headerType=none&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%20144ms%20%7C%20tcp
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.171:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=viper-21.moriarty-web.com&type=tcp&headerType=none&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%20148ms%20%7C%20tcp
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.171:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=viper-21.moriarty-web.com&type=tcp&headerType=none&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%20117ms%20%7C%20tcp
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.173:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=viper-21.moriarty-web.com&type=tcp&headerType=none&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%20117ms%20%7C%20tcp
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.172:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=viper-21.moriarty-web.com&type=tcp&headerType=none&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%20118ms%20%7C%20tcp
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.227.251:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2&sni=uk-dedic-new-1.failspace.top&type=tcp&headerType=none&path=%2F#%5BGB%5D%20%7C%20GBR%20%7C%20119ms%20%7C%20tcp
