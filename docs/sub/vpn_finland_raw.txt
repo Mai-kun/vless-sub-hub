@@ -1,2 +1,1 @@
-vless://d5816c36-6359-5eff-bbfd-14e0cbab087d@185.119.81.20:443?type=tcp&security=reality&sni=mtalk.google.com&pbk=9BUlinkTIxNgD2Em4KShtEbXOjBKvz2mDwT1VqoeR1k&sid=80c4e0bda641d6c9&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=firefox#%5BFI%5D%20%7C%20FINLAND%20%7C%20111ms%20%7C%20reality
-vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.11.52:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=finlandsb.global.ssl.fastly.net.&path=%2F#%5BUN%5D%20%7C%20FINLAND%20%7C%202ms%20%7C%20ws
+vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.11.52:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=finlandsb.global.ssl.fastly.net.&path=%2F#%5BUN%5D%20%7C%20FINLAND%20%7C%201ms%20%7C%20ws
