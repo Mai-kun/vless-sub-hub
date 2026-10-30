@@ -1,1 +1,1 @@
-vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.119:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.co.uk&fp=chrome&pbk=lBrJSAerNtrtOD_p-hbhaxuHevN4dlvr4xPNWJjXhwI&sid=fcadf69c8d&type=tcp&headerType=none#%5BSL%5D%20%7C%20SLO%20%7C%20127ms%20%7C%20reality
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.137:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sk3.speedtestinternet.link&type=tcp&fp=firefox#%5BSL%5D%20%7C%20SLO%20%7C%20140ms%20%7C%20tcp

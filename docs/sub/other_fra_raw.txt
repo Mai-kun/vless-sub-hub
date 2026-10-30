@@ -1,1 +1,1 @@
-vless://4d8cc1c2-2605-43c4-8e17-dcafa86d9757@213.152.180.104:2092?&security=reality&flow=xtls-rprx-vision&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%5BFR%5D%20%7C%20FRA%20%7C%20151ms%20%7C%20reality
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@82.22.2.225:443?&security=tls&fp=qq&sni=b-wl.fr-2.bnc-gt.co.uk&type=grpc&serviceName=&mode=gun#%5BFR%5D%20%7C%20FRA%20%7C%20111ms%20%7C%20grpc
