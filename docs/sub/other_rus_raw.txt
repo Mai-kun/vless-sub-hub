@@ -1,2 +1,5 @@
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?&security=tls&fp=random&sni=xssite.webredirect.org&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20168ms%20%7C%20grpc
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?&security=tls&fp=random&sni=xsru1.ddnsfree.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20169ms%20%7C%20grpc
+vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?&security=tls&fp=chrome&sni=wsru1.wba-pn.ru&type=ws&headerType=none&path=%2F#%5BRU%5D%20%7C%20RUS%20%7C%20132ms%20%7C%20ws
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?&security=tls&fp=chrome&alpn=h2&sni=kk-ru24a1.testkknegr.online&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20135ms%20%7C%20grpc
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#%5BRU%5D%20%7C%20RUS%20%7C%20136ms%20%7C%20grpc
+vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@94.103.2.55:443?&security=tls&fp=edge&sni=rus.play-cat.uk&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20143ms%20%7C%20grpc
+vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@rus.play-cat.uk:443?&security=tls&fp=ios&sni=rus.play-cat.uk&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20150ms%20%7C%20grpc
