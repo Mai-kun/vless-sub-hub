@@ -1,3 +1,4 @@
-vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@189.74.114.119:443?encryption=none&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%20140ms%20%7C%20grpc
-vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@api.mediaklenov.cc:443?encryption=none&type=grpc&mode=gun&serviceName=3e99d50d5740985d&security=tls&sni=api.mediaklenov.cc&alpn=h2&fp=qq#%5BNL%5D%20%7C%20WL%20%7C%20141ms%20%7C%20grpc
-vless://04b7c62b-762e-4a8c-ba37-8328d25c8d74@185.86.145.37:443?encryption=none&host=ararat.rtkdvbr.cc&path=%2Famws&security=tls&sni=ararat.rtkdvbr.cc&type=ws&fp=ios#%5BNL%5D%20%7C%20WL%20%7C%20208ms%20%7C%20ws
+vless://c6628db6-025d-40e8-b79d-033f4372a6b7@189.74.114.93:443?security=tls&type=grpc&mode=gun&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20142ms%20%7C%20grpc
+vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@189.74.114.119:443?encryption=none&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%20145ms%20%7C%20grpc
+vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@api.mediaklenov.cc:443?alpn=h2&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc&fp=qq#%5BNL%5D%20%7C%20WL%20%7C%20145ms%20%7C%20grpc
+vless://04b7c62b-762e-4a8c-ba37-8328d25c8d74@185.86.145.37:443?encryption=none&host=ararat.rtkdvbr.cc&path=%2Famws&security=tls&sni=ararat.rtkdvbr.cc&type=ws&fp=ios#%5BNL%5D%20%7C%20WL%20%7C%20177ms%20%7C%20ws
