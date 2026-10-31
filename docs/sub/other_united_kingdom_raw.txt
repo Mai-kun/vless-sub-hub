@@ -1,2 +1,1 @@
-vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.100:8481?flow=xtls-rprx-vision&security=reality&sni=svoboda16.bystriynet.online&pbk=-Ri2C7Y1tPrP8hQkgXOqVyR1Sqv5MdLZxAAu9M5kfn0&sid=44add17dbecb11ba&fp=android#%5BGB%5D%20%7C%20UNI%20%7C%20139ms%20%7C%20reality
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.209.150:2083?encryption=none&path=%2Fvless-ws&security=tls&sni=speedtestmark.com&type=ws&fp=android#%5BGB%5D%20%7C%20UNI%20%7C%20100ms%20%7C%20ws
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.209.140:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#%5BGB%5D%20%7C%20UNI%20%7C%20132ms%20%7C%20ws

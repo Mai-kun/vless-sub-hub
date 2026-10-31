@@ -1,1 +1,2 @@
-vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.11.52:443?&security=tls&sni=finlandsb.global.ssl.fastly.net.&type=ws&headerType=none&host=finlandsb.global.ssl.fastly.net.&path=%2F#%5BUN%5D%20%7C%20FINLAND%20%7C%2022ms%20%7C%20ws
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@92.242.165.20:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#%5BFI%5D%20%7C%20FINLAND%20%7C%20142ms%20%7C%20ws
+vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.11.52:443?&security=tls&sni=finlandsb.global.ssl.fastly.net.&type=ws&headerType=none&host=finlandsb.global.ssl.fastly.net.&path=%2F#%5BUN%5D%20%7C%20FINLAND%20%7C%2021ms%20%7C%20ws
