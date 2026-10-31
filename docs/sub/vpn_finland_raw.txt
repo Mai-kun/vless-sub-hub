@@ -1,2 +1,1 @@
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?encryption=none&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&security=reality&serviceName=cas-fi&sid=c1db0a1b&sni=s3.storage.selcloud.ru&type=grpc&fp=ios#%5BFI%5D%20%7C%20FINLAND%20%7C%20127ms%20%7C%20reality
-vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.11.52:443?&security=tls&sni=finlandsb.global.ssl.fastly.net.&type=ws&headerType=none&host=finlandsb.global.ssl.fastly.net.&path=%2F#%5BUN%5D%20%7C%20FINLAND%20%7C%2015ms%20%7C%20ws
+vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.11.52:443?&security=tls&sni=finlandsb.global.ssl.fastly.net.&type=ws&headerType=none&host=finlandsb.global.ssl.fastly.net.&path=%2F#%5BUN%5D%20%7C%20FINLAND%20%7C%2022ms%20%7C%20ws
