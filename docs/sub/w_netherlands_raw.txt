@@ -1,1 +1,2 @@
-vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?flow=xtls-rprx-vision&pbk=QnaizqXrXA0e4XihP_5Nf1z1aOOf0obBoyJ8QY_03kw&security=reality&sid=9d0e1b6bf9c5eddb&sni=net.formatgo.ru&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20186ms%20%7C%20reality
+vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?flow=xtls-rprx-vision&headerType=none&host=net.formatgo.ru&path=%2F&pbk=QnaizqXrXA0e4XihP_5Nf1z1aOOf0obBoyJ8QY_03kw&security=reality&sid=9d0e1b6bf9c5eddb&sni=net.formatgo.ru&type=tcp&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20141ms%20%7C%20reality
+vless://fd8b05d0-0a98-4fba-9b48-5c0367abfcf5@185.86.145.37:443?security=tls&sni=ara.rtkdvbr.cc&alpn=http%2F1.1&fp=qq&type=ws&path=%2Famws&host=ara.rtkdvbr.cc#%5BNL%5D%20%7C%20WL%20%7C%20129ms%20%7C%20ws

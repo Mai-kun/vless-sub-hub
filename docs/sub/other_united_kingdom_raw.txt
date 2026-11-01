@@ -1,6 +1,1 @@
-vless://75b517db-1f97-4bda-a479-863d988c31a0@140.225.209.151:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#%5BGB%5D%20%7C%20UNI%20%7C%20145ms%20%7C%20ws
-vless://9ec97e03-5e0b-4feb-b6f2-1c377977e471@140.225.209.130:2083?security=tls&sni=speedtestmark.com&fp=firefox&type=ws&path=%2Fvless-ws#%5BGB%5D%20%7C%20UNI%20%7C%20145ms%20%7C%20ws
-vless://a0bce4ce-514e-4837-8753-0c458484b538@140.225.209.170:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#%5BGB%5D%20%7C%20UNI%20%7C%20146ms%20%7C%20ws
-vless://75b517db-1f97-4bda-a479-863d988c31a0@140.225.208.51:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#%5BGB%5D%20%7C%20UNI%20%7C%20146ms%20%7C%20ws
-vless://a0bce4ce-514e-4837-8753-0c458484b538@140.225.209.130:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#%5BGB%5D%20%7C%20UNI%20%7C%20148ms%20%7C%20ws
-vless://9ec97e03-5e0b-4feb-b6f2-1c377977e471@140.225.209.170:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#%5BGB%5D%20%7C%20UNI%20%7C%20148ms%20%7C%20ws
+vless://7e5b1e82-73db-429a-93b2-7839a0bf4dc0@45.88.12.157:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=crt.onecloudstream.com&type=ws#%5BGB%5D%20%7C%20UNI%20%7C%2099ms%20%7C%20ws
