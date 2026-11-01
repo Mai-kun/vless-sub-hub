@@ -1,3 +1,2 @@
-vless://6116f0f3-15eb-4217-b38e-16514dc00ba1@188.225.62.62:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ru2.datacore-tech.ru&type=tcp#%5BEE%5D%20%7C%20WL%20%7C%20161ms%20%7C%20tcp
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?type=ws&security=tls&path=%2Fblog%2Fposts&host=lorettmay.top&sni=lorettmay.top&fp=firefox&alpn=http%2F1.1&encryption=none#%5BLT%5D%20%7C%20WL%20%7C%20117ms%20%7C%20ws
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?alpn=http%2F1.1&host=lorettmay.top&path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5BLT%5D%20%7C%20WL%20%7C%20121ms%20%7C%20ws
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?alpn=http%2F1.1&host=lorettmay.top&path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5BLT%5D%20%7C%20WL%20%7C%2095ms%20%7C%20ws
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?type=ws&security=tls&path=%2Fblog%2Fposts&host=lorettmay.top&sni=lorettmay.top&fp=firefox&alpn=http%2F1.1&encryption=none#%5BLT%5D%20%7C%20WL%20%7C%2099ms%20%7C%20ws

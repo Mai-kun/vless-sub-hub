@@ -1,1 +1,2 @@
-vless://ef857676-6b00-4c1b-8d98-712dd355230a@43.163.208.228:443?&security=reality&flow=xtls-rprx-vision&pbk=dr63-MwSmvcVljij8PHNZasukHgBv0mHk-QKa7i4yyo&sid=bff486649d0ae69e&fp=firefox&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%5BJP%5D%20%7C%20JPN%20%7C%20119ms%20%7C%20reality
+vless://9c55c7eb-d53e-40fa-a0c9-e25d2a345073@13.230.191.90:443?&security=tls&fp=random&sni=jp-osa.862400.xyz&type=ws&headerType=none&host=jp-osa.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%5BJP%5D%20%7C%20JPN%20%7C%20144ms%20%7C%20ws
+vless://9c55c7eb-d53e-40fa-a0c9-e25d2a345073@193.122.115.184:443?&security=tls&fp=random&sni=jp-osa.862400.xyz&type=ws&headerType=none&host=jp-osa.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%5BJP%5D%20%7C%20JPN%20%7C%20165ms%20%7C%20ws
