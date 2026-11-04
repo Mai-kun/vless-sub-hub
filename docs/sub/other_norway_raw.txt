@@ -1,1 +1,1 @@
-vless://f439e4fe-139b-4882-ad8b-a16176d09c88@85.11.187.68:8443?security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=85.11.187.68&fp=edge#%5BNO%5D%20%7C%20NOR%20%7C%20100ms%20%7C%20reality
+vless://664d2284-e0ad-4de4-9752-a0e12a29840e@nor92.enterquality.online:2443?encryption=none&security=tls&type=tcp&sni=nor92.enterquality.online&fp=firefox&flow=xtls-rprx-vision#%5BNO%5D%20%7C%20NOR%20%7C%20177ms%20%7C%20tcp

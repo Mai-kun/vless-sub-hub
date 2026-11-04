@@ -1,1 +1,2 @@
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?&security=reality&flow=xtls-rprx-vision&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&fp=qq&sni=deepl.com&type=tcp&headerType=none&host=deepl.com&path=%2F#%5BCO%5D%20%7C%20COM%20%7C%20244ms%20%7C%20reality
+vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=ams2.shtil.io&type=tcp&headerType=none&path=%2F#%5BCO%5D%20%7C%20COM%20%7C%20130ms%20%7C%20tcp
+vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@ams2.shtil.io:444?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=ams2.shtil.io&type=tcp&headerType=none&host=ams2.shtil.io&path=%2F#%5BCO%5D%20%7C%20COM%20%7C%20130ms%20%7C%20tcp
