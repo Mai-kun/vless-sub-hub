@@ -1,2 +1,2 @@
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5BLT%5D%20%7C%20WL%20%7C%20134ms%20%7C%20ws
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?security=tls&sni=marshalltmp.top&alpn=http%2F1.1&type=ws&path=%2Fshop%2Fcatalog&host=marshalltmp.top&fp=firefox#%5BLT%5D%20%7C%20WL%20%7C%20135ms%20%7C%20ws
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5BLT%5D%20%7C%20WL%20%7C%20151ms%20%7C%20ws
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?security=tls&sni=marshalltmp.top&alpn=http%2F1.1&type=ws&path=%2Fshop%2Fcatalog&host=marshalltmp.top&fp=ios#%5BLT%5D%20%7C%20WL%20%7C%20151ms%20%7C%20ws
