@@ -1,0 +1,4 @@
+vless://53de05e9-8de3-48ae-9036-dcb203d4925c@196.240.125.251:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v2-6aeb73b7.vmagnum.win&type=tcp#%5BNL%5D%20%7C%20WL%20%7C%2081ms%20%7C%20tcp
+vless://53de05e9-8de3-48ae-9036-dcb203d4925c@nl.alpheratzz.org:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=safari&sni=api-v2-6aeb73b7.vmagnum.win&mode=stream-one#%5BNL%5D%20%7C%20WL%20%7C%2082ms%20%7C%20raw
+vless://53de05e9-8de3-48ae-9036-dcb203d4925c@196.240.125.5:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6aeb73b7.vmagnum.win&type=raw&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%2083ms%20%7C%20raw
+vless://53de05e9-8de3-48ae-9036-dcb203d4925c@196.240.125.5:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v2-6aeb73b7.vmagnum.win&type=tcp#%5BNL%5D%20%7C%20WL%20%7C%2087ms%20%7C%20tcp
