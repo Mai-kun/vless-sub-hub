@@ -1,0 +1,2 @@
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?type=ws&security=tls&sni=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&encryption=none&fp=firefox#%5BPL%5D%20%7C%20WL%20%7C%20124ms%20%7C%20ws
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@72.56.233.10:8443?encryption=none&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&fp=firefox#%5BPL%5D%20%7C%20WL%20%7C%20125ms%20%7C%20ws
