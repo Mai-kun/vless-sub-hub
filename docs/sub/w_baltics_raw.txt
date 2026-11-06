@@ -1,2 +1,1 @@
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect1.accessgate.link:2880?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=chrome#%5BEE%5D%20%7C%20WL%20%7C%20179ms%20%7C%20reality
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5BLT%5D%20%7C%20WL%20%7C%20144ms%20%7C%20ws
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5BLT%5D%20%7C%20WL%20%7C%20130ms%20%7C%20ws

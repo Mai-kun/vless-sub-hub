@@ -1,2 +1,1 @@
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.17.108.213:443?encryption=none&security=tls&sni=vpn.cintaku.qzz.io&type=ws&host=vpn.cintaku.qzz.io&path=%2Fvlessws#%5BMA%5D%20%7C%20MAL%20%7C%205ms%20%7C%20ws
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?alpn=http%2F1.1&fp=chrome&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws#%5BMA%5D%20%7C%20MAL%20%7C%205ms%20%7C%20ws
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.17.108.213:443?headerType=none&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=safari#%5BMA%5D%20%7C%20MAL%20%7C%209ms%20%7C%20ws
