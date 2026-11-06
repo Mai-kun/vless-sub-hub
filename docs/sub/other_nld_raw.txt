@@ -1,2 +1,2 @@
-vless://7feec880-56f0-4425-9313-e2e340206284@raverno.online:443?&security=tls&fp=firefox&sni=raverno.online&type=grpc&serviceName=&mode=gun#%5BNL%5D%20%7C%20NLD%20%7C%2084ms%20%7C%20grpc
-vless://7feec880-56f0-4425-9313-e2e340206284@84.245.18.243:443?&security=tls&fp=firefox&sni=raverno.online&type=grpc&serviceName=&mode=gun#%5BNL%5D%20%7C%20NLD%20%7C%2085ms%20%7C%20grpc
+vless://7feec880-56f0-4425-9313-e2e340206284@raverno.online:443?&security=tls&fp=firefox&sni=raverno.online&type=grpc&serviceName=&mode=gun#%5BNL%5D%20%7C%20NLD%20%7C%20137ms%20%7C%20grpc
+vless://7feec880-56f0-4425-9313-e2e340206284@84.245.18.243:443?&security=tls&fp=firefox&sni=raverno.online&type=grpc&serviceName=&mode=gun#%5BNL%5D%20%7C%20NLD%20%7C%20137ms%20%7C%20grpc
