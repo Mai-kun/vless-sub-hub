@@ -1,4 +1,3 @@
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=firefox#%5BUS%5D%20%7C%20UNI%20%7C%208ms%20%7C%20ws
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@172.67.199.126:2053?alpn=http%2F1.1&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=firefox#%5BUS%5D%20%7C%20UNI%20%7C%209ms%20%7C%20ws
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@104.21.58.37:2053?security=tls&sni=fast.145779.xyz&type=ws&host=fast.145779.xyz&path=%2Fws-tesla&alpn=http%2F1.1&fp=safari#%5BUS%5D%20%7C%20UNI%20%7C%209ms%20%7C%20ws
-vless://2af77824-f83d-4f50-9dd0-560bb6e7cd45@node.jaydentune.top:443?encryption=none&security=tls&sni=node.jaydentune.top&type=ws&host=node.jaydentune.top&path=%2Fray#%5BUS%5D%20%7C%20UNI%20%7C%209ms%20%7C%20ws
+vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@172.67.199.126:2053?alpn=http%2F1.1&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=firefox#%5BUS%5D%20%7C%20UNI%20%7C%2016ms%20%7C%20ws
+vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=firefox#%5BUS%5D%20%7C%20UNI%20%7C%2020ms%20%7C%20ws
+vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@104.21.58.37:2053?security=tls&sni=fast.145779.xyz&type=ws&host=fast.145779.xyz&path=%2Fws-tesla&alpn=http%2F1.1&fp=safari#%5BUS%5D%20%7C%20UNI%20%7C%2021ms%20%7C%20ws
