@@ -1,1 +1,1 @@
-vless://fe551942-d6e5-4361-ae5c-1f2e9077cd79@83.219.97.18:443?security=reality&encryption=none&pbk=32XFmS-ifqooBFY89KNP3ZrqgSBOd3vel9GlNinL6yw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=fi5.silalink.sbs&sid=03#%5BFI%5D%20%7C%20FI%20%7C%20118ms%20%7C%20reality
+vless://320536e8-b0d3-4afa-a5ec-de93356ce562@static.117.242.109.65.clients.your-server.de:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=static.0.72.42.77.clients.your-server.de&alpn=h2, http/1.1&fp=chrome&type=tcp&headerType=none#%5BFI%5D%20%7C%20FI%20%7C%20119ms%20%7C%20tcp
