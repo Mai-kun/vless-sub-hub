@@ -1,1 +1,2 @@
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@94.26.41.47:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ded.bsh-net.ru&pbk=eGTeI8aqjoea2v_vEHimFxEuC1IA42r2tg7IcP5oq1U&sid=8e72c89e1adf4dc4&allowInsecure=1&fp=chrome#%5BBG%5D%20%7C%20BUL%20%7C%2097ms%20%7C%20reality
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&alpn=h2%2Chttp%2F1.1&type=raw&flow=xtls-rprx-vision&sni=ripelever.net&fp=edge#%5BBG%5D%20%7C%20BUL%20%7C%20155ms%20%7C%20raw
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&headerType=&insecure=0&security=tls&sni=ripelever.net&type=tcp&fp=chrome#%5BBG%5D%20%7C%20BUL%20%7C%20160ms%20%7C%20tcp
