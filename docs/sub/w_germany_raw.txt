@@ -1,3 +1,0 @@
-vless://bb190cdb-82ae-4212-b6cd-8ae9e6b768dd@188.225.78.228:443?encryption=none&flow=xtls-rprx-vision&pbk=aV_BHCeZ30y4-5rpUIHaWHMYAgogLsw4AE06Rw2X4WE&security=reality&sid=e202a94ad1711af2&sni=music.yandex.ru&type=raw&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20155ms%20%7C%20reality
-vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-133.mirra.now:443?type=grpc&encryption=none&serviceName=VideoRenderer&path=VideoRenderer&sni=renderer-bridge-2-133.mirra.now&security=tls&alpn=h2&fp=ios#%5BDE%5D%20%7C%20WL%20%7C%20158ms%20%7C%20grpc
-vless://27653b37-603c-4c90-b1f5-25c4d23f8932@147.45.153.134:443?alpn=h2&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-133.mirra.now&type=grpc&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20160ms%20%7C%20grpc
