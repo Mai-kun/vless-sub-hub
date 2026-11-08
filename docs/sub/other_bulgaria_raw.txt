@@ -1,2 +1,0 @@
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&alpn=h2%2Chttp%2F1.1&type=raw&flow=xtls-rprx-vision&sni=ripelever.net&fp=edge#%5BBG%5D%20%7C%20BUL%20%7C%20155ms%20%7C%20raw
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&headerType=&insecure=0&security=tls&sni=ripelever.net&type=tcp&fp=chrome#%5BBG%5D%20%7C%20BUL%20%7C%20160ms%20%7C%20tcp
