@@ -1,1 +1,2 @@
-vless://e9b117e4-8be9-4105-9354-a5e0663294f0@91.215.43.80:443?host=metrics.api.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fa901ed17102fc3090ca1ab052c672f47&security=tls&sni=metrics.api.downloader-pet.xyz&type=ws&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%2098ms%20%7C%20ws
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@sitec-len.ivanovo.su:443?encryption=none&type=ws&security=tls&sni=sitec-len.ivanovo.su&alpn=http%2F1.1&path=%2Fcatalog%2Ffeed%2FfcM0awplMQdz&fp=edge#%5BDE%5D%20%7C%20WL%20%7C%20128ms%20%7C%20ws
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@178.170.197.230:443?security=tls&sni=sitec-len.ivanovo.su&alpn=http%2F1.1&type=ws&path=%2Fcatalog%2Ffeed%2FfcM0awplMQdz&fp=edge#%5BDE%5D%20%7C%20WL%20%7C%20136ms%20%7C%20ws

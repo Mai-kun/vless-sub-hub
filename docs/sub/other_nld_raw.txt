@@ -1,1 +1,2 @@
-vless://fc486b2b-8a22-4c93-8a8b-f40e1522ba78@nl-ams.862400.xyz:443?&security=tls&fp=random&sni=nl-ams.862400.xyz&type=ws&headerType=none&host=nl-ams.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%5BNL%5D%20%7C%20NLD%20%7C%204ms%20%7C%20ws
+vless://ab930631-6ad9-427b-bd45-fb8367975b9e@freef35panel-ui-pro-2649.up.railway.app:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=freef35panel-ui-pro-2649.up.railway.app&type=ws&headerType=none&host=freef35panel-ui-pro-2649.up.railway.app&path=%2Fws%2Fab930631-6ad9-427b-bd45-fb8367975b9e#%5BNL%5D%20%7C%20NLD%20%7C%202ms%20%7C%20ws
+vless://5ff6362e-5235-49c5-879d-5dba57dc7910@kingcheng.cc.cd:443?&security=tls&fp=chrome&sni=kingcheng.cc.cd&type=ws&headerType=none&host=kingcheng.cc.cd&path=%2F#%5BNL%5D%20%7C%20NLD%20%7C%202ms%20%7C%20ws

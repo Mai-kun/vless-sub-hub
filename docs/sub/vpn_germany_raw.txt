@@ -1,4 +1,3 @@
-vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:43115?flow=xtls-rprx-vision&insecure=1&pbk=lOvD2OqP7J9WEDZ4q5G6Dx7XKt2eAN4CFgcNhPN-EGI&security=reality&sid=f3a2231b4371&sni=www.python.org&type=tcp&fp=safari#%5BDE%5D%20%7C%20GERMANY%20%7C%20212ms%20%7C%20reality
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:8443?security=tls&sni=OV-Germany1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#%5BUN%5D%20%7C%20GERMANY%20%7C%2099ms%20%7C%20ws
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.94:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#%5BUN%5D%20%7C%20GERMANY%20%7C%202ms%20%7C%20ws
-vless://a500be68-4ff6-433b-9968-472be69fab14@germany02.azotvpn.xyz:443?sni=germany02.azotvpn.xyz&flow=xtls-rprx-vision&fp=chrome&security=tls#%5BUN%5D%20%7C%20GERMANY%20%7C%20102ms%20%7C%20tcp
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:8443?security=tls&sni=OV-Germany1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#%5BUN%5D%20%7C%20GERMANY%20%7C%2091ms%20%7C%20ws
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.94:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#%5BUN%5D%20%7C%20GERMANY%20%7C%201ms%20%7C%20ws
+vless://a500be68-4ff6-433b-9968-472be69fab14@germany02.azotvpn.xyz:443?sni=germany02.azotvpn.xyz&flow=xtls-rprx-vision&fp=chrome&security=tls#%5BUN%5D%20%7C%20GERMANY%20%7C%2094ms%20%7C%20tcp

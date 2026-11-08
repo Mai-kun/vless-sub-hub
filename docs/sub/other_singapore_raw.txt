@@ -1,1 +1,2 @@
-vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:43113?security=reality&type=tcp&sni=v1-dy.ixigua.com&host=v1-dy.ixigua.com&flow=xtls-rprx-vision&fp=random&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&sid=ff2c978a0b#%5BSG%5D%20%7C%20SIN%20%7C%20213ms%20%7C%20reality
+vless://a8d9c86f-cddb-4fa5-96f7-f68eb48b3cb3@sg01.cf.sh-cloudflare.sbs:8443?security=tls&sni=sg01.cdn00.top&type=ws&headerType=none&host=sg01.cdn00.top&path=%2Fshanhai%2Fsg01&fp=chrome#%5BSG%5D%20%7C%20SIN%20%7C%201ms%20%7C%20ws
+vless://a8d9c86f-cddb-4fa5-96f7-f68eb48b3cb3@172.64.229.88:8443?encryption=none&host=sg01.cdn00.top&path=%2Fshanhai%2Fsg01&security=tls&sni=sg01.cdn00.top&type=ws&fp=firefox#%5BSG%5D%20%7C%20SIN%20%7C%202ms%20%7C%20ws
