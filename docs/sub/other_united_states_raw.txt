@@ -1,6 +1,1 @@
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=firefox#%5BUS%5D%20%7C%20UNI%20%7C%201ms%20%7C%20ws
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@172.67.199.126:2053?alpn=http%2F1.1&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=android#%5BUS%5D%20%7C%20UNI%20%7C%201ms%20%7C%20ws
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@104.21.58.37:2053?security=tls&sni=fast.145779.xyz&type=ws&host=fast.145779.xyz&path=%2Fws-tesla&alpn=http%2F1.1&fp=android#%5BUS%5D%20%7C%20UNI%20%7C%202ms%20%7C%20ws
-vless://affb10d4-3835-4b1f-b5a3-3481489911b6@185.245.34.199:443?&security=tls&fp=chrome&sni=cat.ilovezhenjiu.top&type=ws&headerType=none&host=cat.ilovezhenjiu.top&path=%2Fcgciws#%5BUS%5D%20%7C%20UNI%20%7C%201ms%20%7C%20ws
-vless://affb10d4-3835-4b1f-b5a3-3481489911b6@2.26.147.65:443?&security=tls&fp=chrome&sni=cat.ilovezhenjiu.top&type=ws&headerType=none&host=cat.ilovezhenjiu.top&path=%2Fcgciws#%5BUS%5D%20%7C%20UNI%20%7C%20162ms%20%7C%20ws
-vless://affb10d4-3835-4b1f-b5a3-3481489911b6@172.93.186.31:443?security=tls&sni=cat.ilovezhenjiu.top&fp=firefox&type=ws&host=cat.ilovezhenjiu.top&path=%2Fcgciws#%5BUS%5D%20%7C%20UNI%20%7C%20172ms%20%7C%20ws
+vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@104.21.58.37:2053?security=tls&sni=fast.145779.xyz&type=ws&host=fast.145779.xyz&path=%2Fws-tesla&fp=chrome#%5BUS%5D%20%7C%20UNI%20%7C%202ms%20%7C%20ws

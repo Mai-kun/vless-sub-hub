@@ -1,3 +1,10 @@
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:8443?security=tls&sni=OV-Germany1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#%5BUN%5D%20%7C%20GERMANY%20%7C%20152ms%20%7C%20ws
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.94:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#%5BUN%5D%20%7C%20GERMANY%20%7C%202ms%20%7C%20ws
-vless://27653b37-603c-4c90-b1f5-25c4d23f8932@194.87.190.163:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-133.mirra.now&type=grpc&fp=ios#%5BDE%5D%20%7C%20GERMANY%20%7C%20202ms%20%7C%20grpc
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@103.31.4.75:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%201ms%20%7C%20ws
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@103.31.4.254:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%202ms%20%7C%20ws
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@103.31.4.160:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%202ms%20%7C%20ws
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@172.67.110.86:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%203ms%20%7C%20ws
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.24.21.163:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%204ms%20%7C%20ws
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.19.248.199:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%204ms%20%7C%20ws
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@162.159.236.61:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%204ms%20%7C%20ws
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%204ms%20%7C%20ws
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%206ms%20%7C%20ws
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@188.114.96.246:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%5BDE%5D%20%7C%20GERMANY%20%7C%207ms%20%7C%20ws
