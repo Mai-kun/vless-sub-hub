@@ -1,1 +1,1 @@
-vless://42fdae2d-e88d-44b1-8ee1-ba57ec8880c5@web-production-a2735.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-a2735.up.railway.app&path=%2Fws%2F42fdae2d-e88d-44b1-8ee1-ba57ec8880c5&sni=web-production-a2735.up.railway.app&fp=chrome&alpn=http%2F1.1#%5BUS%5D%20%7C%20UNI%20%7C%205ms%20%7C%20ws
+vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=android#%5BUS%5D%20%7C%20UNI%20%7C%206ms%20%7C%20ws
