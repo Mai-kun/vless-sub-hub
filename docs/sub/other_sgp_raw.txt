@@ -1,3 +1,1 @@
-vless://5b28a0c9-eda3-4c78-b07b-48cbd1670771@139.162.33.165:443?&security=tls&fp=random&sni=eu-central.862400.xyz&type=ws&headerType=none&host=eu-central.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%5BSG%5D%20%7C%20SGP%20%7C%20163ms%20%7C%20ws
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?&security=tls&fp=chrome&sni=sg003.zestapp778.com&type=tcp&headerType=none&host=sg003.zestapp778.com&path=%2F#%5BSG%5D%20%7C%20SGP%20%7C%20165ms%20%7C%20tcp
-vless://5b28a0c9-eda3-4c78-b07b-48cbd1670771@139.162.46.201:443?&security=tls&fp=random&sni=us-lax.862400.xyz&type=ws&headerType=none&host=us-lax.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%5BSG%5D%20%7C%20SGP%20%7C%20169ms%20%7C%20ws
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.18.35.86:2083?&security=tls&fp=chrome&sni=vlsovip.1d.mom&type=ws&headerType=none&host=vlsovip.1d.mom&path=%2Ffp%3Dunsafefp%3Dchrome#%5BSG%5D%20%7C%20SGP%20%7C%202ms%20%7C%20ws
