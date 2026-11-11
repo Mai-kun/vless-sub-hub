@@ -1,2 +1,2 @@
-vless://95f85937-7b95-45c4-8d69-95da6a978569@vps2.nemnogogo.com:443?&security=tls&fp=ios&alpn=h2&sni=vps2.nemnogogo.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20129ms%20%7C%20grpc
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?&security=tls&fp=firefox&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20130ms%20%7C%20grpc
+vless://95f85937-7b95-45c4-8d69-95da6a978569@vps2.nemnogogo.com:443?&security=tls&fp=ios&alpn=h2&sni=vps2.nemnogogo.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20140ms%20%7C%20grpc
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?&security=tls&fp=firefox&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20149ms%20%7C%20grpc
