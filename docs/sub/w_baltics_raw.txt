@@ -1,3 +1,1 @@
-vless://97fd7807-7e2b-49da-8a0e-e40197088f97@165.231.157.124:8443?security=tls&sni=api-6af3f40b.adhil.uk&alpn=h2&fp=firefox&flow=xtls-rprx-vision&type=raw&path=%2F&mode=stream-one#%5BEE%5D%20%7C%20WL%20%7C%20132ms%20%7C%20raw
-vless://97fd7807-7e2b-49da-8a0e-e40197088f97@165.231.157.124:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6af3f40b.adhil.uk&type=tcp#%5BEE%5D%20%7C%20WL%20%7C%20152ms%20%7C%20tcp
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5BLT%5D%20%7C%20WL%20%7C%20103ms%20%7C%20ws
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5BLT%5D%20%7C%20WL%20%7C%20110ms%20%7C%20ws
