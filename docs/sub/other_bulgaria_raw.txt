@@ -1,0 +1,1 @@
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?encryption=none&type=grpc&serviceName=grpc&mode=gun&authority=bg2.oncloudvpn.com&security=tls&sni=bg2.oncloudvpn.com&fp=edge&alpn=h2#%5BBG%5D%20%7C%20BUL%20%7C%20114ms%20%7C%20grpc
