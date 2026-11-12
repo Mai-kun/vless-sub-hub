@@ -1,1 +1,1 @@
-vless://a8d9c86f-cddb-4fa5-96f7-f68eb48b3cb3@172.64.229.88:8443?encryption=none&host=sg01.cdn00.top&path=%2Fshanhai%2Fsg01&security=tls&sni=sg01.cdn00.top&type=ws&fp=android#%5BSG%5D%20%7C%20SIN%20%7C%201ms%20%7C%20ws
+vless://c6624b96-e346-490b-9145-74c2543a9483@xjpp.zjlo.top:36442?security=tls&type=tcp&sni=xjpp.zjlo.top&flow=xtls-rprx-vision&fp=chrome#%5BSG%5D%20%7C%20SIN%20%7C%20179ms%20%7C%20tcp
