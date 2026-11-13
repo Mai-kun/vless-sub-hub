@@ -1,2 +1,1 @@
-vless://30b99882-86ca-46a2-8aad-6f1b97407d22@45.132.179.93:80?flow=xtls-rprx-vision&security=tls&sni=nl.ezhiknet.work&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20121ms%20%7C%20tcp
-vless://30b99882-86ca-46a2-8aad-6f1b97407d22@213.171.26.214:80?flow=xtls-rprx-vision&security=tls&sni=nl.ezhiknet.work&alpn=h2%2Chttp%2F1.1&fp=edge#%5BNL%5D%20%7C%20WL%20%7C%20127ms%20%7C%20tcp
+vless://fa081e9f-7574-0002-8928-31aa5ac923c7@94.139.250.226:443?security=reality&sni=rus8-b.sbcweb.net&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=344f83372596eea2&type=grpc&serviceName=grpc&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%20156ms%20%7C%20reality
