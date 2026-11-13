@@ -1,6 +1,1 @@
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?&security=reality&flow=xtls-rprx-vision&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&fp=chrome&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=zfapi.zalolink.com&path=%2F#%5BJP%5D%20%7C%20JAP%20%7C%20198ms%20%7C%20reality
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?type=ws&path=%252Ftyxyws&host=jp3.yohototo.top&security=tls&sni=jp3.yohototo.top&fp=firefox#%5BJP%5D%20%7C%20JAP%20%7C%207ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.34.106:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%5BJP%5D%20%7C%20JAP%20%7C%207ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.48:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=safari#%5BJP%5D%20%7C%20JAP%20%7C%209ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%5BJP%5D%20%7C%20JAP%20%7C%2011ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=safari#%5BJP%5D%20%7C%20JAP%20%7C%2011ms%20%7C%20ws
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=android#%5BJP%5D%20%7C%20JAP%20%7C%206ms%20%7C%20ws
