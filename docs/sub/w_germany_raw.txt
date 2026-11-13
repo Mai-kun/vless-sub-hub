@@ -1,2 +1,1 @@
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@astravellion.xyz:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de1.v1&sni=astravellion.xyz&type=grpc&fp=safari#%5BDE%5D%20%7C%20WL%20%7C%20172ms%20%7C%20grpc
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@5.129.193.120:443?security=tls&sni=astravellion.xyz&type=grpc&serviceName=glush.de1.v1&allowInsecure=0&fp=qq#%5BDE%5D%20%7C%20WL%20%7C%20175ms%20%7C%20grpc
+vless://30b99882-86ca-46a2-8aad-6f1b97407d22@45.132.179.93:80?flow=xtls-rprx-vision&security=tls&sni=de.drom-buy.help&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20120ms%20%7C%20tcp
