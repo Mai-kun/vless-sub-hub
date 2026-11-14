@@ -1,4 +1,6 @@
-vless://9dc3aaa8-4330-4e0d-9363-b19cf6d9fc62@166.0.22.246:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp4.netease.uz&type=tcp#%5BJP%5D%20%7C%20JAP%20%7C%20187ms%20%7C%20tcp
-vless://7102f0c3-1964-47f1-936b-26b8caee9aba@166.0.22.244:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp8.netease.uz&type=tcp#%5BJP%5D%20%7C%20JAP%20%7C%20213ms%20%7C%20tcp
-vless://9b2be2d3-96cd-4ffc-aac2-649c74f92402@166.0.22.238:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp1.netease.uz&type=tcp#%5BJP%5D%20%7C%20JAP%20%7C%201311ms%20%7C%20tcp
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.185:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome&encryption=none#%5BJP%5D%20%7C%20JAP%20%7C%202ms%20%7C%20ws
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.185:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome&encryption=none#%5BJP%5D%20%7C%20JAP%20%7C%207ms%20%7C%20ws
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.34.106:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=safari#%5BJP%5D%20%7C%20JAP%20%7C%208ms%20%7C%20ws
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=android#%5BJP%5D%20%7C%20JAP%20%7C%209ms%20%7C%20ws
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=safari#%5BJP%5D%20%7C%20JAP%20%7C%2011ms%20%7C%20ws
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.75.37:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top&fp=chrome#%5BJP%5D%20%7C%20JAP%20%7C%20148ms%20%7C%20ws
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@216.23.93.27:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%5BJP%5D%20%7C%20JAP%20%7C%20209ms%20%7C%20ws
