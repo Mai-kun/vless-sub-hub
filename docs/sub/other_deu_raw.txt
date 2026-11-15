@@ -1,1 +1,2 @@
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?&security=tls&fp=firefox&alpn=h2&sni=luminexorizon.ink&type=grpc&serviceName=&mode=gun#%5BDE%5D%20%7C%20DEU%20%7C%20158ms%20%7C%20grpc
+vless://55458d10-24ab-4ea6-a522-13741b546f2a@132.243.163.154:443?&security=reality&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&sid=7a8e24da4eb2c1b5&fp=firefox&sni=ec7a81g.de15.h1clayd.click&type=grpc&serviceName=&mode=gun#%5BDE%5D%20%7C%20DEU%20%7C%20204ms%20%7C%20reality
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@147.45.76.226:8443?&security=tls&fp=chrome&sni=v2n4.11676767.xyz&type=ws&headerType=none&host=v2n4.11676767.xyz&path=%2Fresource%2Ftopics#%5BDE%5D%20%7C%20DEU%20%7C%20157ms%20%7C%20ws
