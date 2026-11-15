@@ -1,1 +1,2 @@
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?&security=reality&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&fp=ios&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#%5BSG%5D%20%7C%20SIN%20%7C%20119ms%20%7C%20reality
+vless://2ab54cbc-bea6-4b79-8833-7b3354b97500@sg5t.wawojk.dpdns.org:443?security=tls&type=ws&path=%2Fsg5-ws-8f3a2c&host=sg5t.wawojk.dpdns.org&packetEncoding=none&sni=sg5t.wawojk.dpdns.org#%5BSG%5D%20%7C%20SIN%20%7C%2019ms%20%7C%20ws
+vless://b19c62cc-f2c2-4895-aee1-978a0f58f8c8@www.zoom.us:443?type=ws&path=%252F&host=matrix.phonicsindia.mobi&security=tls&sni=matrix.phonicsindia.mobi&fp=firefox#%5BSG%5D%20%7C%20SIN%20%7C%2021ms%20%7C%20ws
