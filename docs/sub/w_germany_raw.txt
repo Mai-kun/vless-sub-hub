@@ -1,3 +1,2 @@
-vless://02ac275e-7604-4f62-b8cf-5045a8227ec9@ns.uu.1omg1.click:443?security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&serviceName=vless-grpc-reality&encryption=none&fp=firefox#%5BDE%5D%20%7C%20WL%20%7C%20157ms%20%7C%20reality
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@104.171.139.81:443?encryption=none&type=grpc&security=tls&sni=luminexorizon.ink&alpn=h2%2Chttp%2F1.1&serviceName=glush.de3.v1&fp=chrome#%5BDE%5D%20%7C%20WL%20%7C%20157ms%20%7C%20grpc
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?alpn=h2&encryption=none&insecure=0&mode=gun&security=tls&serviceName=glush.de3.v1&sni=luminexorizon.ink&type=grpc&fp=edge#%5BDE%5D%20%7C%20WL%20%7C%20162ms%20%7C%20grpc
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@reedbed.filnex.baby:443?type=ws&security=tls&path=%2Fapi%2Fde6%2Fstream&sni=reedbed.filnex.baby&fp=ios#%5BDE%5D%20%7C%20WL%20%7C%20197ms%20%7C%20ws
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?security=tls&type=ws&sni=clover.filnex.baby&path=%2Fapi%2Fde6%2Fstream&host=clover.filnex.baby&fp=android#%5BDE%5D%20%7C%20WL%20%7C%20214ms%20%7C%20ws

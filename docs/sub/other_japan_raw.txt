@@ -1,7 +1,5 @@
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%5BJP%5D%20%7C%20JAP%20%7C%2013ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=android#%5BJP%5D%20%7C%20JAP%20%7C%2014ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?type=ws&path=%252Ftyxyws&host=jp3.yohototo.top&security=tls&sni=jp3.yohototo.top&fp=firefox#%5BJP%5D%20%7C%20JAP%20%7C%2014ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.234:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%5BJP%5D%20%7C%20JAP%20%7C%2014ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%5BJP%5D%20%7C%20JAP%20%7C%2018ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.185:443?type=ws&path=%252Ftyxyws&host=jp3.yohototo.top&security=tls&sni=jp3.yohototo.top&fp=chrome#%5BJP%5D%20%7C%20JAP%20%7C%2019ms%20%7C%20ws
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?fp=firefox&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%5BJP%5D%20%7C%20JAP%20%7C%2019ms%20%7C%20ws
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?&security=reality&flow=xtls-rprx-vision&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&fp=firefox&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#%5BJP%5D%20%7C%20JAP%20%7C%20133ms%20%7C%20reality
+vless://9da605d3-f5f7-4135-f806-450f036f9351@155.248.175.201:23169?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=djj.zjlo.top&encryption=none&type=tcp#%5BJP%5D%20%7C%20JAP%20%7C%201154ms%20%7C%20tcp
+vless://9da605d3-f5f7-4135-f806-450f036f9351@djj.zjlo.top:23169?security=tls&type=tcp&packetEncoding=none&allowInsecure=0&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#%5BJP%5D%20%7C%20JAP%20%7C%201194ms%20%7C%20tcp
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=ios#%5BJP%5D%20%7C%20JAP%20%7C%206ms%20%7C%20ws
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.234:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=edge#%5BJP%5D%20%7C%20JAP%20%7C%2020ms%20%7C%20ws
