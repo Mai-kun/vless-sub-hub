@@ -1,1 +1,2 @@
-vless://4cf2635f-400a-4556-bb66-645990da5fe1@168.113.132.25:2087?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=Ex2L4ivp4x1KS6hrredENthbnhAfhJ81Z0HJXVAqHkU&sid=3abd9457f2568d48&sni=youflexsite.jumpingcrab.com&fp=android#%5BUS%5D%20%7C%20WL%20%7C%20188ms%20%7C%20reality
+vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?security=tls&sni=video.get.downloader-pet.xyz&type=ws&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&fp=chrome#%5BUS%5D%20%7C%20WL%20%7C%20135ms%20%7C%20ws
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=firefox#%5BUS%5D%20%7C%20WL%20%7C%20179ms%20%7C%20tcp
