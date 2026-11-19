@@ -1,1 +1,1 @@
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@87.242.94.43:443?&security=tls&fp=chrome&sni=87.242.94.43&type=ws&headerType=none&host=87.242.94.43&path=%2Fapi%2Fv2%2Fsession%2FCAgikYAkk4z7#%5BSE%5D%20%7C%20SWE%20%7C%20129ms%20%7C%20ws
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=lodizu.hagrid-connected.com&type=tcp&headerType=none&host=lodizu.hagrid-connected.com&path=%2F#%5BSE%5D%20%7C%20SWE%20%7C%20103ms%20%7C%20tcp
