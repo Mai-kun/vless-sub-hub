@@ -1,1 +1,1 @@
-vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none&flow=xtls-rprx-vision&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&security=reality&sid=8718c58d3d51db59&sni=al2.magazinnarubeva.ru&type=tcp&fp=android#%5BAL%5D%20%7C%20ALB%20%7C%20132ms%20%7C%20reality
+vless://50414e45-4c5f-5a45-5553-e56923ade28f@185.207.198.151:443?security=tls&sni=6izgogewuq8s.5czjqeeeua8s.workers.dev&fp=firefox&type=ws&host=6izgogewuq8s.5czjqeeeua8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fe56923ade28f%2Floc-1#%5BAL%5D%20%7C%20ALB%20%7C%202ms%20%7C%20ws

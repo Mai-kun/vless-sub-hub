@@ -1,1 +1,1 @@
-vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@fr-free.fastestrelay.com:443?path=%2F700gvl&security=tls&host=fr-free.fastestrelay.com&fp=chrome&type=ws&sni=fr-free.fastestrelay.com#%5BFR%5D%20%7C%20FRA%20%7C%206ms%20%7C%20ws
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@45.95.98.139:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=45.95.98.130&type=tcp&fp=edge#%5BFR%5D%20%7C%20FRA%20%7C%2088ms%20%7C%20tcp
