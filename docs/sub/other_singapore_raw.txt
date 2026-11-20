@@ -1,3 +1,1 @@
-vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&insecure=0&allowInsecure=0&type=tcp&headerType=none#%5BSG%5D%20%7C%20SIN%20%7C%20196ms%20%7C%20tcp
-vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@xjpp.zjlo.top:36442?security=tls&type=raw&sni=xjpp.zjlo.top&flow=xtls-rprx-vision&fp=chrome#%5BSG%5D%20%7C%20SIN%20%7C%20197ms%20%7C%20raw
-vless://c6624b96-e346-490b-9145-74c2543a9483@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top&fp=edge#%5BSG%5D%20%7C%20SIN%20%7C%20199ms%20%7C%20tcp
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?type=ws&security=tls&fp=chrome&sni=matrix.learnpodedu.com&host=matrix.learnpodedu.com&vcn=matrix.learnpodedu.com#%5BSG%5D%20%7C%20SIN%20%7C%203ms%20%7C%20ws
