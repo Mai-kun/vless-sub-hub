@@ -1,1 +1,1 @@
-vless://4859c235-2530-4062-9a0b-ea859cbbf861@5.157.30.28:8443?&security=tls&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&sni=1.proxy2.us.ci.&type=ws&headerType=none&host=1.proxy2.us.ci.&path=%2F%3Fed%3D2560#%5BIR%5D%20%7C%20IRL%20%7C%20130ms%20%7C%20ws
+vless://9be9e1e4-d1fc-4423-b22d-cd07a4381acb@23.94.67.209:443?&security=tls&fp=random&sni=cj1-e06.pages.dev&type=ws&headerType=none&host=cj1-e06.pages.dev&path=%2F#%5BIR%5D%20%7C%20IRL%20%7C%2081ms%20%7C%20ws
