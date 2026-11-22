@@ -1,1 +1,1 @@
-vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?encryption=none&security=tls&sni=free.sahanwickramasinghe.com&fp=edge&alpn=http%2F1.1&type=ws&host=free.sahanwickramasinghe.com&path=%2F#%5BDE%5D%20%7C%20TFM%20%7C%206ms%20%7C%20ws
+vless://2b696acb-1311-4ab7-b832-b376d29dca27@static.58.252.109.65.clients.your-server.de:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=static.170.55.238.62.clients.your-server.de&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%5BRU%5D%20%7C%20TFM%20%7C%20170ms%20%7C%20tcp
