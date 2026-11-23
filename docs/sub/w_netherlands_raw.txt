@@ -1,2 +1,1 @@
-vless://cde5d3ef-7d14-1f40-a74d-ac98e39bf9ec@168.113.132.167:52006?flow=xtls-rprx-vision&security=tls&sni=168.113.132.167&alpn=h2%2Chttp%2F1.1&fp=firefox#%5BNL%5D%20%7C%20WL%20%7C%20159ms%20%7C%20tcp
-vless://4877b146-b0c0-439b-b794-31059912167a@185.86.145.183:443?security=tls&sni=for.quick-frost.ru&alpn=http%2F1.1&type=ws&host=for.quick-frost.ru&path=%2Fnl7ws&fp=edge#%5BNL%5D%20%7C%20WL%20%7C%20127ms%20%7C%20ws
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@31.177.111.136:443?encryption=none&host=q075gi2cms.schoolbag.top&path=%2Fcollector%2Fruntime%2Fchannel%2Fopen&security=tls&sni=q075gi2cms.schoolbag.top&type=ws&fp=chrome#%5BNL%5D%20%7C%20WL%20%7C%20131ms%20%7C%20ws
