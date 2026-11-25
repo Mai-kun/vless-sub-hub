@@ -1,1 +1,2 @@
-vless://6df66cb9-34e6-4287-9660-5dda0f79239b@103.252.91.140:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=vsaxas.puffixhosting.com&pbk=pqm3uwi4igGi8XbqSnlbOMb6JUgmCaF-e_YcKWvrMUM&sid=be9ad6e06ec8e762#%5BCO%5D%20%7C%20COL%20%7C%20147ms%20%7C%20reality
+vless://e3395091-144d-408e-a288-fe2e0917bb48@leonardo.ai:443?type=ws&headerType=none&security=tls&encryption=none&sni=xray.mtt90.net&path=%2F%40Matt90b&host=xray.mtt90.net#%5BCO%5D%20%7C%20COL%20%7C%201ms%20%7C%20ws
+vless://e3395091-144d-408e-a288-fe2e0917bb48@copilot.microsoft.com:443?type=ws&headerType=none&security=tls&encryption=none&sni=xray.mtt90.net&path=%2F%40Matt90b&host=xray.mtt90.net#%5BCO%5D%20%7C%20COL%20%7C%201ms%20%7C%20ws
