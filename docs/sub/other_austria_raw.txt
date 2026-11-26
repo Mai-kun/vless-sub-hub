@@ -1,1 +1,1 @@
-vless://963A4918-A630-29DA-A873-093CDF8AD784@ancient-haze-d203.vpnetwork3567.workers.dev:443?encryption=none&type=ws&security=tls&sni=ancient-haze-d203.vpnetwork3567.workers.dev&alpn=http/1.1&host=ancient-haze-d203.vpnetwork3567.workers.dev&path=/#%5BAU%5D%20%7C%20AUS%20%7C%208ms%20%7C%20ws
+vless://963A4918-A630-29DA-A873-093CDF8AD784@aus.stealthtunnel.com:443?encryption=none&security=tls&sni=aus.stealthtunnel.com&alpn=http%2F1.1&type=ws&host=aus.stealthtunnel.com&path=%2F#%5BAU%5D%20%7C%20AUS%20%7C%2011ms%20%7C%20ws
