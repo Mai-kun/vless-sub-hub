@@ -1,5 +1,3 @@
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?encryption=none&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp&fp=qq#%5BSG%5D%20%7C%20SIN%20%7C%20175ms%20%7C%20reality
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%5BSG%5D%20%7C%20SIN%20%7C%2012ms%20%7C%20ws
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none&fp=chrome&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%5BSG%5D%20%7C%20SIN%20%7C%2015ms%20%7C%20ws
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?type=ws&security=tls&sni=matrix.learnpodedu.com&host=matrix.learnpodedu.com&vcn=matrix.learnpodedu.com&fp=edge#%5BSG%5D%20%7C%20SIN%20%7C%2016ms%20%7C%20ws
-vless://076799f8-d922-4bf1-805d-e758e6eb925f@free.server.darknetlk.com:443?type=tcp&security=tls&fp=chrome#%5BSG%5D%20%7C%20SIN%20%7C%20192ms%20%7C%20tcp
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?type=ws&security=tls&fp=chrome&sni=matrix.learnpodedu.com&host=matrix.learnpodedu.com&vcn=matrix.learnpodedu.com#%5BSG%5D%20%7C%20SIN%20%7C%209ms%20%7C%20ws
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#%5BSG%5D%20%7C%20SIN%20%7C%209ms%20%7C%20ws
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?path=/&security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&fp=chrome&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#%5BSG%5D%20%7C%20SIN%20%7C%209ms%20%7C%20ws
