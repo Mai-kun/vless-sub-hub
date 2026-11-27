@@ -1,1 +1,2 @@
-vless://963A4918-A630-29DA-A873-093CDF8AD784@ca.stealthtunnel.com:443?encryption=none&security=tls&sni=ca.stealthtunnel.com&alpn=http%2F1.1&type=ws&host=ca.stealthtunnel.com&path=%2F#%5BCA%5D%20%7C%20CAN%20%7C%208ms%20%7C%20ws
+vless://963A4918-A630-29DA-A873-093CDF8AD784@ca.stealthtunnel.com:443?type=ws&security=tls&sni=ca.stealthtunnel.com&alpn=http%2F1.1&path=%2F#%5BCA%5D%20%7C%20CAN%20%7C%207ms%20%7C%20ws
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?&security=tls&fp=chrome&sni=kuruish.org&type=tcp&headerType=none&host=kuruish.org&path=%2F#%5BCA%5D%20%7C%20CAN%20%7C%2046ms%20%7C%20tcp

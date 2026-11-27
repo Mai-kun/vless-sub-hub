@@ -1,4 +1,3 @@
-vless://37af0181-5598-4aad-a040-d926bcb65757@smartcdn.top:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=smartcdn.top&type=ws&headerType=none&host=smartcdn.top&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F#%5BRU%5D%20%7C%20RUS%20%7C%20151ms%20%7C%20ws
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?&security=tls&fp=firefox&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20152ms%20%7C%20grpc
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.24.116.192:443?&security=tls&fp=firefox&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20157ms%20%7C%20grpc
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?&security=tls&fp=firefox&alpn=h2&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20157ms%20%7C%20grpc
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?&security=tls&fp=firefox&alpn=h2&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20153ms%20%7C%20grpc
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.24.116.192:443?&security=tls&fp=firefox&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#%5BRU%5D%20%7C%20RUS%20%7C%20158ms%20%7C%20grpc
